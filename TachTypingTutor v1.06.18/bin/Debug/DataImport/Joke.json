@@ -1,0 +1,752 @@
+﻿{
+"Jokes": [
+	{
+		"id" : 1,
+		"name" : "Joke1",
+		"joke" : "Doctor: \"I'm sorry but you suffer from a terminal illness and have only 10 to live.\" Patient: \"What do you mean, 10? 10 what? Months? Weeks?!\" Doctor: \"Nine.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 2,
+		"name" : "Joke2",
+		"joke" : "A man asks a farmer near a field, \"Sorry sir, would you mind if I crossed your field instead of going around it? You see, I have to catch the 4:23 train.\" The farmer says, \"Sure, go right ahead. And if my bull sees you, you'll even catch the 4:11 one.\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 3,
+		"name" : "Joke3",
+		"joke" : "Two Elephants meet a totally naked guy. After a while one elephant says to the other: \"I really don't get how he can feed himself with that thing!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 4,
+		"name" : "Joke4",
+		"joke" : "Doctor: Hello, did you come to see me with an eye problem? Patient: Wow, yes, how can you tell? Doctor: Because you came in through the window instead of the door.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 5,
+		"name" : "Joke5",
+		"joke" : "When my wife starts to sing I always go out and do some garden work so our neighbors can see there's no domestic violence going on.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 6,
+		"name" : "Joke6",
+		"joke" : "At a first date: He: \"I work with animals every day!\" She: \"Oh how sweet! What is it that you do?\" He: \"I'm a butcher.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 7,
+		"name" : "Joke7",
+		"joke" : "I was in a restaurant once and I suddenly realized I desperately needed to pass gas. The music was really, really loud, so I timed my reliefs to the beat of the music. After just a few songs I started to feel better. I finished my coffee, and noticed that everybody was staring at me... That was when I remembered I was listening to my iPod.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 8,
+		"name" : "Joke8",
+		"joke" : "A naked women robbed a bank. Nobody could remember her face.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 9,
+		"name" : "Joke9",
+		"joke" : "Guest at a restaurant: \"I refuse to eat this roastbeef. Please call the manager!\" Waiter: \"That's no use. He won't eat it either.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 10,
+		"name" : "Joke10",
+		"joke" : "Why do cows wear bells? Their horns don't work.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 11,
+		"name" : "Joke11",
+		"joke" : "I'm selling my talking parrot. Why? Because yesterday, the bastard tried to sell me.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 12,
+		"name" : "Joke12",
+		"joke" : "Do you know why women aren't allowed in space? To avoid scenarios like: \"Houston, we have a problem!\" \"What is the problem?\" \"Yeah, great, pretend like you don't know what I'm talking about!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 13,
+		"name" : "Joke13",
+		"joke" : "A wife complains to her husband: \"Just look at that couple down the road, how lovely they are. He keeps holding her hand, kissing her, holding the door for her, why can't you do the same?\" \"Are you mad? I barely know the woman!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 14,
+		"name" : "Joke14",
+		"joke" : "Three guys are stranded in a desert. By a stroke of luck, they find a magic genie lamp. The genie grants each of them one wish. The first guy wishes to be back home. Wish granted. The second guy wishes the same. Wish granted. The third guy says, \"It feels very lonely here now, I wish my friends were with me'\" Wish granted.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 15,
+		"name" : "Joke15",
+		"joke" : "Two guys are out hunting in the woods when one of them collapses. He doesn't appear to be breathing, his eyes are glazed over. The other man pulls out his phone with trembling fingers and calls 911. He gasps, \"My friend is dead! What can I do?\" The operator says \"Please stay calm. I will help you. First of all, let's make sure he's dead.\" There's a silence, then a gun shot. The guy gets back on the phone and says \"OK, now what?\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 16,
+		"name" : "Joke16",
+		"joke" : "We have a strange custom in our office. The food has names there. Yesterday for example I got myself a sandwich out of the fridge and its name was \"Michael'.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 17,
+		"name" : "Joke17",
+		"joke" : "\"How much do the potatoes cost?\" \"2.50.\" \"And the bag?\" \"The bag is free.\" \"Ok, give me the bag.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 18,
+		"name" : "Joke18",
+		"joke" : "What is dangerous? Sneezing while having diarrhea!",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 19,
+		"name" : "Joke19",
+		"joke" : "\"I really don't know which kid I'm supposedly being unfair to, according to my wife, Thomas, Anton, or the fat, ugly one?\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 20,
+		"name" : "Joke20",
+		"joke" : "A nice old lady on a bus offers the driver some peanuts. He's happy to take some and, munching, asks her why she isn't having any herself. \"Oh, young man,\" she says, \"they're too hard on my poor teeth, I couldn't.\" \"Why buy them at all then?\" wonders the driver. \"You see, I just love the chocolate they're covered in!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 21,
+		"name" : "Joke21",
+		"joke" : "Man: Hi, do you want to dance? Woman: Yeah, sure! Man: Great, go and dance, I want to talk to your pretty friend!",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 22,
+		"name" : "Joke22",
+		"joke" : "I got another letter from this lawyer today. It said \"Final Notice'. Good that he will not bother me anymore. ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 23,
+		"name" : "Joke23",
+		"joke" : "You'll never believe who I bumped into on my way to the eye doctor! Everybody!",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 24,
+		"name" : "Joke24",
+		"joke" : "I saw a poster today, somebody was asking \"Have you seen my cat?\" So I called the number and said that I didn't. I like to help where I can.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 25,
+		"name" : "Joke25",
+		"joke" : "Last night a Chinese guy came to my favorite bar. I asked him if he knew kung fu or some other martial art. He said, \"Why do you ask me that? Is it just because I'm Chinese?!\"\"No it's because you're drinking My beer!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 26,
+		"name" : "Joke26",
+		"joke" : "Father buys a lie detector that makes a loud beep whenever somebody lies around it. The son comes home in the afternoon. Father asks him, \"So, you were at school today, right?\" Son: \"Yeah.\" Detector: \"Beep.\" Son: \"OK, OK, I was in a cinema.\" Detector: \"Beep.\" Son: \"Alright, I went for a beer with my friends.\" Father: \"What?! At your age, I wouldn't touch alcohol!\" Detector: \"Beep.\" Mother laughs: \"Ha ha ha, well, he really is your son!\"Detector: \"Beep.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 27,
+		"name" : "Joke27",
+		"joke" : "What do you call the soft tissue between a shark's teeth? The slow swimmer.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 28,
+		"name" : "Joke28",
+		"joke" : "Fantastic exercise that really helps you to lose weight: Turn your head to the left. Good. Now turn your head to the right. Very good. Repeat this exercise whenever you are offered any food.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 29,
+		"name" : "Joke29",
+		"joke" : "Do you know how to make a dumb person curious?\" \"No, how?\" \"I'll tell you tomorrow.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 30,
+		"name" : "Joke30",
+		"joke" : "Shortest joke a software developer can tell: \"I'll be ready soon.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 31,
+		"name" : "Joke31",
+		"joke" : "Be polite to every idiot you meet. He could be your boss tomorrow.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 32,
+		"name" : "Joke32",
+		"joke" : "I was sitting in a bar one day and two really large women came in, talking in an interesting accent. So I said, \"Cool accent, are you two ladies from Ireland?\" One of them snarled at me, \"It's Wales, dumbo!\" So I corrected myself, \"Oh, right, so are you two whales from Ireland?\" That's about as far as I remember.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 33,
+		"name" : "Joke33",
+		"joke" : "When somebody makes you really angry, count to three. When you get to two, punch them in the face. They won't be expecting that.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 34,
+		"name" : "Joke34",
+		"joke" : "What did the little fish say when he swam into a wall? DAM!",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 35,
+		"name" : "Joke35",
+		"joke" : "The doctor to the patient: \"You are very sick\" The patient to the doctor: \" Can I get a second opinion?\" The doctor again: \"Yes, you are very ugly too...\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 36,
+		"name" : "Joke36",
+		"joke" : "A man goes to the doctor and says, \"Doctor, wherever I touch, it hurts.\" The doctor asks, \"What do you mean?\" The man says, \"When I touch my shoulder, it really hurts. If I touch my knee - OUCH! When I touch my forehead, it really, really hurts.\" The doctor says, \"I know what's wrong with you - you've broken your finger!\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 37,
+		"name" : "Joke37",
+		"joke" : "Patient: Doctor! You've got to help me! Nobody ever listens to me. No one ever pays any attention to what I have to say. Doctor: Next please! ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 38,
+		"name" : "Joke38",
+		"joke" : "Two boys were arguing when the teacher entered the room.The teacher says, \"Why are you arguing?\" One boy answers, \"We found a ten dollar bill and decided to give it to whoever tells the biggest lie.\" \"You should be ashamed of yourselves,\" said the teacher, \"When I was your age I didn't even know what a lie was.\" The boys gave the ten dollars to the teacher.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 39,
+		"name" : "Joke39",
+		"joke" : "A: Just look at that young person with the short hair and blue jeans. Is it a boy or a girl? B: It's a girl. She's my daughter. A: Oh, I'm sorry, sir. I didn't know that you were her father. B: I'm not. I'm her mother.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 40,
+		"name" : "Joke40",
+		"joke" : "Mother: \"Did you enjoy your first day at school?\" Girl: \"First day? Do you mean I have to go back tomorrow? ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 41,
+		"name" : "Joke41",
+		"joke" : "Headmaster: I've had complaints about you, Johnny, from all your teachers. What have you been doing? Johnny: Nothing, sir. Headmaster: Exactly. ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 42,
+		"name" : "Joke42",
+		"joke" : "Teacher: \"Nick, what is the past participle of the verb to ring?\" Nick: \"What do you think it is, Sir?\" Teacher: \"I don't think, I KNOW!\" Nick: \"I don't think I know either, Sir!\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 43,
+		"name" : "Joke43",
+		"joke" : "A teenage girl had been talking on the phone for about half an hour, and then she hung up. \"Wow!,\" said her father, \"That was short. You usually talk for two hours. What happened?\" \"Wrong number,\" replied the girl.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 44,
+		"name" : "Joke44",
+		"joke" : "PUPIL: \"Would you punish me for something I didn`t do?\" TEACHER:\" Of course not.\" PUPIL: \"Good, because I haven`t done my homework.\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 45,
+		"name" : "Joke45",
+		"joke" : "A teacher asked a student to write 55. Student asked: How? Teacher: Write 5 and beside it another 5! The student wrote 5 and stopped. teacher: What are you waiting for? student: I don't know which side to write the other 5!",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 46,
+		"name" : "Joke46",
+		"joke" : "Little Johnny: Teacher, can I go to the bathroom? Teacher: Little Johnny, MAY I go to the bathroom? Little Johnny: But I asked first!",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 47,
+		"name" : "Joke47",
+		"joke" : "Son: Dad, what is an idiot? Dad: An idiot is a person who tries to explain his ideas in such a strange and long way that another person who is listening to him can't understand him. Do you understand me? Son: No.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 48,
+		"name" : "Joke48",
+		"joke" : "Man: I want to share everything with you. Woman: Let's start from your bank account.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 49,
+		"name" : "Joke49",
+		"joke" : "Teacher: Why are you late? Student: There was a man who lost a hundred dollar bill. Teacher: That's nice. Were you helping him look for it? Student: No. I was standing on it. ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 50,
+		"name" : "Joke50",
+		"joke" : "A: Why are all those people running? B: They are running a race to get a cup. A: Who will get the cup? B: The person who wins. A: Then why are all the others running? ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 51,
+		"name" : "Joke51",
+		"joke" : "Teacher: What are some products of the West Indies? Student: I don't know. Teacher: Of course, you do. Where do you get sugar from Student: We borrow it from our neighbor.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 52,
+		"name" : "Joke52",
+		"joke" : "If big elephants have big trunks, do small elephants have suitcases?",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 53,
+		"name" : "Joke53",
+		"joke" : "Mary: John says I'm pretty. Andy says I'm ugly. What do you think, Peter? Peter: I think you're pretty ugly.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 54,
+		"name" : "Joke54",
+		"joke" : "A man receives a phone call from his doctor. The doctor says, \"I have some good news and some bad news.\" The man says, \"OK, give me the good news first.\" The doctor says, \"The good news is, you have 24 hours to live.\" The man replies, \"Oh no! If that's the good news, then what's the bad news?\" The doctor says, \"The bad news is, I forgot to call you yesterday.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 55,
+		"name" : "Joke55",
+		"joke" : "Teacher: Tell me a sentence that starts with an \"I'. Student: I is the....Teacher: Stop! Never put 'is' after an \"I'. Always put 'am' after an \"I'. Student: OK. I am the ninth letter of the alphabet. ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 56,
+		"name" : "Joke56",
+		"joke" : "Two factory workers are talking. The woman says, \"I can make the boss give me the day off.\" The man replies, \"And how would you do that?\" The woman says, \"Just wait and see.\" She then hangs upside-down from the ceiling. The boss comes in and says, \"What are you doing?\" The woman replies, \"I'm a light bulb.\" The boss then says, \"You've been working so much that you've gone crazy. I think you need to take the day off.\" The man starts to follow her and the boss says, \"Where are you going?\" The man says, \"I'm going home, too. I can't work in the dark.\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 57,
+		"name" : "Joke57",
+		"joke" : "Two cows are standing in a field. One says to the other \"Are you worried about Mad Cow Disease?\" The other one says \"No, It doesn't worry me, I'm a horse!\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 58,
+		"name" : "Joke58",
+		"joke" : "What are two things people never eat before breakfast? Lunch and supper. A boy is selling fish on a corner. To get his customers' attention, he is yelling, \"Dam fish for sale! Get your dam fish here!\" A pastor hears this and asks, \"Why are you calling them 'dam fish.'\" The boy responds, \"Because I caught these fish at the local dam.\" The pastor buys a couple fish, takes them home to his wife, and asks her to cook the dam fish. The wife responds surprised, \"I didn't know it was acceptable for a preacher to speak that way.\" He explains to her why they are dam fish. Later at the dinner table, he asks his son to pass the dam fish. He responds, \"That's the spirit, Dad! Now pass the f**king potatoes!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 59,
+		"name" : "Joke59",
+		"joke" : "A man is being arrested by a female police officer, who informs him, \"Anything you say can and will be held against you.\" The man replies, \"Boobs!\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 60,
+		"name" : "Joke60",
+		"joke" : "A teacher is teaching a class and she sees that Johnny isn't paying attention, so she asks him, \"If there are three ducks sitting on a fence, and you shoot one, how many are left?\" Johnny says, \"None.\" The teacher asks, \"Why?\" Johnny says, \"Because the shot scared them all off.\" The teacher says, \"No, two, but I like how you're thinking.\" Johnny asks the teacher, \"If you see three women walking out of an ice cream parlor, one is licking her ice cream, one is sucking her ice cream, and one is biting her ice cream, which one is married?\" The teacher says, \"The one sucking her ice cream.\" Johnny says, \"No, the one with the wedding ring, but I like how you're thinking!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 61,
+		"name" : "Joke61",
+		"joke" : "Well, last week was my birthday. My wife didn't wish me a happy birthday. My parents forgot and so did my kids. I went to work and even my colleagues didn't wish me a happy birthday. As I entered my office, my secretary said, \"Happy birthday, boss!\" I felt so special. She asked me out for lunch. After lunch, she invited me to her apartment. We went there and she said, \"Do you mind if I go into the bedroom for a minute?\" \"Okay,\" I said. She came out 5 minutes later with a birthday cake, my wife, my parents, my kids, my friends, & my colleagues all yelling, \"SURPRISE!!!\" while I was waiting on the sofa... naked.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 62,
+		"name" : "Joke62",
+		"joke" : "A little girl and boy are fighting about the differences between the sexes, and which one is better. Finally, the boy drops his pants and says, \"Here's something I have that you'll never have!\" The little girl is pretty upset by this, since it is clearly true, and runs home crying. A while later, she comes running back with a smile on her face. She drops her pants and says, \"My mommy says that with one of these, I can have as many of those as I want!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 63,
+		"name" : "Joke63",
+		"joke" : "Maria went home happy, telling her mother about how she earned $20 by climbing a tree. Her mom responded, \"Maria, they just wanted to see your panties!\" Maria replied, \"See Mom, I was smart, I took them off!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 64,
+		"name" : "Joke64",
+		"joke" : "Wife: \"I look fat. Can you give me a compliment?\" Husband: \"You have perfect eyesight.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 65,
+		"name" : "Joke65",
+		"joke" : "A lady goes to the doctor and complains that her husband is losing interest in sex. The doctor gives her a pill, but warns her that it's still experimental. He tells her to slip it into his mashed potatoes at dinner, so that night, she does just that. About a week later, she's back at the doctor, where she says, \"Doc, the pill worked great! I put it in the potatoes like you said! It wasn't five minutes later that he jumped up, raked all the food and dishes onto the floor, grabbed me, ripped all my clothes off, and ravaged me right there on the table!\" The doctor says, \"I'm sorry, we didn't realize the pill was that strong! The foundation will be glad to pay for any damages.\" \"Nah,\" she says, \"that's okay. We're never going back to that restaurant anyway.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 66,
+		"name" : "Joke66",
+		"joke" : "At school, Little Johnny's classmate tells him that most adults are hiding at least one dark secret, so it's very easy to blackmail them by saying, \"I know the whole truth.\" Little Johnny decides to go home and try it out. Johnny's mother greets him at home, and he tells her, \"I know the whole truth.\" His mother quickly hands him $20 and says, \"Just don't tell your father.\" Quite pleased, the boy waits for his father to get home from work, and greets him with, \"I know the whole truth.\" The father promptly hands him $40 and says, \"Please don't say a word to your mother.\" Very pleased, the boy is on his way to school the next day when he sees the mailman at his front door. The boy greets him by saying, \"I know the whole truth.\" The mailman immediately drops the mail, opens his arms, and says, \"Then come give your Daddy a great big hug!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 67,
+		"name" : "Joke67",
+		"joke" : "Girl: \"Girls are better than boys.\" Boy: \"Then why did God make boys first?\" Girl: \"Duh, you have to have a rough draft before the final copy.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 68,
+		"name" : "Joke68",
+		"joke" : "And, Johnny? How did your school report turn out? asks mother. Come on mom, the most important thing is that I'm healthy!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 69,
+		"name" : "Joke69",
+		"joke" : "Teacher: \"Why are you praying in class little Johnny?\" Little Johnny: \"My mom taught me to always pray before going to sleep.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 70,
+		"name" : "Joke70",
+		"joke" : "After Sunday school, the teacher released the kids to go to church and reminded them, \"You all know to be very nice and quiet in the church. And why is that?\" Little Johnny offers, \"Miss, it's so we wouldn't wake all those people sleeping.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 71,
+		"name" : "Joke71",
+		"joke" : "Sunday school teacher asks Johnny, \"Come now, Little Johnny, tell me the truth, do you say your prayers before eating?\" Little Johnny smiles proudly, \"No Miss, there's no need, my mom cooks really well.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 72,
+		"name" : "Joke72",
+		"joke" : "Miss Taylor the English teacher writes an incorrect sentence on the board: \"I didn't had no fun for months.\" Then she faces the class and says, \"OK class, how should this be corrected?\" Little Johnny says, \"I think you should get yourself a better man!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 73,
+		"name" : "Joke73",
+		"joke" : "Mother, \"Johnny, if you keep being this naughty, you'll get kids who will be very naughty to you!\" Johnny, \"Oh mom, you just betrayed yourself there, didn't you?\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 74,
+		"name" : "Joke74",
+		"joke" : "The teacher heard Little Johnny use some serious language and was shocked. \"Little Johnny, don't you ever use language like that again, not near me, not ever. Where on earth did you learn that?\" \"I've got it from my dad, Miss,\" replies Johnny. \"Well, your daddy should be ashamed. I hope you don't know what all that even means.\" \"Oh but I do,\" says Johnny. \"It means the car won't start.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 75,
+		"name" : "Joke75",
+		"joke" : "The teacher was trying to put to use her recent psychology education. She asked everyone in her class, \"Alright, if any of you think you are stupid, please stand up!\" A few seconds pass by and then Little Johnny stands up. Startled, the teacher says, \"Oh, do you think you're stupid, Little Johnny?\" \"No, Miss, but I didn't want to leave you standing all alone!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 76,
+		"name" : "Joke76",
+		"joke" : "Teacher asks Little Johnny, \"Johnny, how old is your father?\" \"He's as old as me,\" Johnny informs her. \"Now how would that be possible?\" inquires the surprised teacher. \"Well \" he became father the day I was born.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 77,
+		"name" : "Joke77",
+		"joke" : "Little Johnny is making faces at school. The teacher catches him at it and says, \"You know when I was little and made faces, my dad told me a secret. And that is that when you keep making faces, your face finally can't go back and you end up really ugly.\" Little Johnny quiets and says, \"Well, at least you were warned'\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 78,
+		"name" : "Joke78",
+		"joke" : "Teacher: \"If you had two dollars and you asked your daddy for another dollar, how many dollars would you have in the end?\" Without hesitation, Johnny answers, \"Two dollars.\" Teacher isn't happy, \"Come on, Johnny, you don't know how to count.\" Johnny shrugs, \"Maybe, but I do know my dad!",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 79,
+		"name" : "Joke79",
+		"joke" : "Teacher asks his class one day, \"What would you like to be when you grow up?\" Johnny answers first, saying, \"I will follow in my father's footsteps and become a policeman.\" Teacher raises his eyebrows, \"Johnny, I didn't know your father is a policeman.\" \"Well, he isn't,\" explains Johnny. \"He's a burglar.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 80,
+		"name" : "Joke80",
+		"joke" : "During an English lesson, the teacher asks, \"Can anyone give me an example for the word \"COINCIDENCE'?\" Little Johnny volunteers, \"Sir, my mum and dad were married on the same day.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 81,
+		"name" : "Joke81",
+		"joke" : "The class is having a guessing game and the teacher asks, \"OK, what do you call someone who keeps on talking even though nobody else is interested anymore?\" Little Johnny shouts eagerly, \"A teacher!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 82,
+		"name" : "Joke82",
+		"joke" : "Little Johnny comes home and his father sighs, \"Allright, boy, out with your report card.\" Johnny says, \"I don't have it, dad.\" \"What? Why not?\" asks his father. \"I borrowed it to my friend. He wanted to freak out his parents.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 83,
+		"name" : "Joke83",
+		"joke" : "Teacher asks, \"Who can tell me the chemical formula for water?\" Little Johnny pipes up, \"HIJKLMNO'! The teacher is puzzled, \"What on Earth are you talking about, Johnny?\" Little Johnny looks hurt, \"But sir, you yourself said yesterday that it's H to O!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 84,
+		"name" : "Joke84",
+		"joke" : "Boy: *calls 911* Hello? I need your help! 911: Alright, What is it? Boy: Two girls are fighting over me! 911: So what's your emergency Boy: The ugly one is winning.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 85,
+		"name" : "Joke85",
+		"joke" : "3 drunk guys enterd a taxi. The taxi driver knew that they were drunk so he started the engine & turned it off again. Then said, \"We have reached your destination'. The 1st guy gave him money & the 2nd guy said \"Thank you'. The 3rd guy slapped the driver. The driver was shocked thinking the 3rd drunk knew what he did. But then he asked \"What was that for?'. The 3rd guy replied, \"Control your speed next time, you nearly killed us!\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 86,
+		"name" : "Joke86",
+		"joke" : "it's funny how after an argument is over, you start to think about more clever facts you could have ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 87,
+		"name" : "Joke87",
+		"joke" : "A patient says, \"Doctor, last night I made a Freudian slip. I was having dinner with my mother-in-law and wanted to say: 'Could you please pass the butter?' But instead I said: 'You silly cow, you have completely ruined my life.\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 88,
+		"name" : "Joke88",
+		"joke" : "A woman gets on a bus with her baby. The bus driver says: \"That's the ugliest baby that I've ever seen.\" The woman goes to the rear of the bus and sits down, fuming. She says to a man next to her, \"That driver just insulted me!\" The man says, \"You go right up there and tell him off! Go ahead, I'll hold your monkey for you.\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 89,
+		"name" : "Joke89",
+		"joke" : "When NASA first started sending up astronauts, they quickly discovered that ballpoint pens would not work in zero gravity. To combat the problem, NASA scientists spent a decade and $12 billion to develop a pen that writes in zero gravity, upside down, underwater, on almost any surface including glass and at temperatures ranging from below freezing to 300 degrees Celsius. The Russians used a pencil. ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 90,
+		"name" : "Joke90",
+		"joke" : "On the roof of a very tall building are four men; one is asian, one is mexican, one is black, and the last one is white. The asian walks to the ledge and says, \"This is for all my people\" and jumps off the roof. Next, the mexican walks to the ledge and also says, \"This is for all my people\" and then he jumps off the roof. Next is the black guy's turn. The black guy walks to the ledge and says, \"This is for all my people\" and then throws the white guy off the roof. ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 91,
+		"name" : "Joke91",
+		"joke" : "Teacher: \"Kids, what does the chicken give you?\"Student: \"Meat!\" Teacher: \"Very good! Now what does the pig give you?\"Student: \"Bacon!\" Teacher: \"Great! And what does the fat cow give you?\" Student: \"Homework!\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 92,
+		"name" : "Joke92",
+		"joke" : "My friend thinks he is smart. He told me an onion is the only food that makes you cry, so I threw a coconut at his face.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 93,
+		"name" : "Joke93",
+		"joke" : "Dad- Son, u better pass this exam or rather forget that im ur father! Son- Sure dad! Whatever! ~5 hours later~ Dad- Howz ur exam? Son- Who the hell r u???",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 94,
+		"name" : "Joke94",
+		"joke" : "I was walking along the street the other day when I slipped in dog shit. A minute later, some guy did exactly the same thing. I said to him, \"I just did that.\" So, he punched me in the face and called me a dirty bastard.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 95,
+		"name" : "Joke95",
+		"joke" : "Chuck Norris threw a hand grenade and killed 50 people. Then the grenade exploded.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 96,
+		"name" : "Joke96",
+		"joke" : "Husband: Honey, do u smell that? Wife: No. Husband: Yeah, me neither, start cooking.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 97,
+		"name" : "Joke97",
+		"joke" : "I told my dad to embrace his mistakes. He cried. Then he hugged my sister & me.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 98,
+		"name" : "Joke98",
+		"joke" : "*boy whispers to his mom during a wedding* boy: \"Mommy?\" mom: \"What?\" boy: \"Why is the girl dressed in white?\" mom: \"Because this is the happiest day of her life.\" boy: \"... so why is the boy dressed in black?\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 99,
+		"name" : "joke99",
+		"joke" : "\"Has your son decided what he wants to be when he grows up?\" I asked my friend. \"He wants to be a garbageman,\" he replied. \"That's an unusual ambition to have at such a young age.\" \"Not really. He thinks that garbagemen work only on Tuesdays.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 100,
+		"name" : "joke100",
+		"joke" : "I used to think the brain was the most important organ. Then I thought, look what's telling me that.",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 101,
+		"name" : "joke101",
+		"joke" : "There was a huge nut tree by the cemetery fence. One day two boys filled up a bucketful of nuts and sat down by the tree, out of sight, and began dividing the nuts. \"One for you, one for me. One for you, one for me,\" said one boy. The bucket was so full, several rolled out towards the fence. Cycling down the road by the cemetery was a third boy. As he passed, he thought he heard voices from inside the cemetery. He slow down to investigate. Sure enough, he heard, \"One for you, one for me. One for you.\" He knew what it was. \"Oh my god!\" he shuddered, \"It's Satan and St. Peter dividing the souls at the cemetery!\" He cycled down the road and found an old man with a cane, hobbling along. \"Come quick!\" he said, \"You won't believe what I heard. Satan and St. Peter are down at the cemetery dividing the souls.\" The man said, \"Shoo, you brat! Can't you see I'm finding it hard to walk as it is!\" After several pleas, the man hobbled to the cemetery and heard, \"One for you, one for me. One for you, one...\" The old man whispered, \"Boy, you's been tellin' the truth! Let's see if we can see the Devil himself.\" Shivering with fear, they edged toward the fence, still unable to see anything, but they heard, \"One for you, one for me. One for you, one for me. And one last one for you. That's all. Let's go get those nuts by the fence, and we'll be done.\" They say the old guy made it to town 10 minutes before the boy!",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 102,
+		"name" : "joke102",
+		"joke" : "A young man who was also an avid golfer found himself with a few hours to spare one afternoon. He figured if he hurried and played very fast, he could get in 9 holes before he had to head home. Just as he was about to tee off an old gentleman shuffled onto the tee and asked if he could accompany the young man as he was golfing alone. Not being able to say no, he allowed the old gent to join him. To his surprise the old man played fairly quickly. He didn't hit the ball far, but plodded along consistently and didn't waste much time. Finally, they reached the 9th fairway and the young man found himself with a tough shot. There was a large pine tree right in front of his ball and it was directly between his ball and the green. After several minutes of debating how to hit the shot the old man finally said, \"You know, when I was your age I'd hit the ball right over that tree.\" With that challenge placed before him, the youngster swung hard, hit the ball up, right smack into the top of the tree trunk and it thudded back on the ground not a foot from where it had originally lay. The old man offered one more comment, \"Of course, when I was your age that pine tree was only 3 feet tall.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 103,
+		"name" : "joke103",
+		"joke" : "Three elderly men are at the doctor for a memory test. The doctor says to the first man, \"What is three times three?\" \"274\" was his reply. The doctor says to the second man, \"It's your turn. What is three times three?\" \"Tuesday\", replies the second man. The doctor says to the third man, \"Okay, your turn. What's three times three\"? \"Nine\", says the third man. \"That's great!\" says the doctor. \"How did you get that\"? \"Simple,\" says the third man. \"I subtracted 274 from Tuesday.\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 104,
+		"name" : "joke104",
+		"joke" : "what does a pregnant teen and her unborn baby have in common? they're both thinking \"oh, my mom is going to kill me\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 105,
+		"name" : "joke105",
+		"joke" : "Police: Where do u live? Me: With my parents. Police: Where do your parents live? Me: With Me. Police: Where do you all live? Me: Together. Police: Where is your house? Me: Next to my neighbors house. Police: Where is your neighbors house? Me: You won't believe me if I tell you. Police: Tell Me! Me: Next to my house. ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 106,
+		"name" : "joke106",
+		"joke" : "A police officer stopped a car on the highway and went up to the driver. He saw the man, and said: \"You've just won $1000 for wearing a seat belt! What are you going to do with your prize money?\" The man thought, and said back: \"Maybe go to the driving school and get my licence!\" His wife told the cop: \"Don't listen to him, he's a smartass when he's drunk\". All of this talking made a passenger in the back of the car wake up, and he blurted out: \"I knew we wouldn't get far in this stolen car. Why didn't you change the number plate?\" A knock emerged from the trunk of the car, and the person in the trunk said: \"Are we at the border yet?\" ",
+		"category" : "clean",
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 107,
+		"name" : "joke107",
+		"joke" : "2 kids were fighting a boy and a girl. The girl says\"If you were my husband, I would poison your coffee\". The boy answers\"If you were my wife I would drink it\"",
+		"category" : "clean",
+		"ageRestriction" : 0
+	}
+]}

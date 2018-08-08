@@ -1,0 +1,13 @@
+﻿<Application x:Class="TachTypingTutor_v1._06._18.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TachTypingTutor_v1._06._18"
+            >
+    <Application.Resources>
+        
+
+
+
+
+    </Application.Resources>
+</Application>

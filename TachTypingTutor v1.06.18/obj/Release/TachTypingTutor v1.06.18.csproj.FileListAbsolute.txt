@@ -1,0 +1,139 @@
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18.csprojAssemblyReference.cache
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Star.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Themes\Dark.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Themes\Light.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\AboutWindow.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\BoardPage.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\CreateUserDialog.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\ChooseLessonDialog.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\InputTab.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\Graph.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\Keyboard.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\KeyboardButton.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\CreateLessonDialog.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\EditLessonDialog.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\PasswordDialog.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandB.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandC.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandComma.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandE.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandEnter.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandG.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandH.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandI.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandLeftShift.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandM.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandMinus.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandN.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandO.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandP.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandPeriod.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandQ.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandR.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandRightShift.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandsHomeLeft.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandsHomeRight.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandSpace.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandT.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandU.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandV.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandW.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandX.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandY.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandZ.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\KeyboardingHands.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\LockAccountDialog.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\MainWindow.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\PercentageMeter.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\SpeedMeter.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\PerfomanceWindow.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\NotifierDialog.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\ResultWindow.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\SettingsDialog.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\SignInWindow.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Star.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\App.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18_MarkupCompile.cache
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18_MarkupCompile.lref
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\TachTypingTutor v1.06.18.exe.config
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\TachTypingTutor v1.06.18.exe
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\TachTypingTutor v1.06.18.pdb
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\CoreExtLib.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\CoreLib.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\MaterialDesignColors.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\TawmFramework.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\VMLib.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\NAudio.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\System.Data.SQLite.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\Dapper.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\CoreExtLib.pdb
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\CoreLib.pdb
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\CoreLib.dll.config
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\TawmFramework.pdb
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\VMLib.pdb
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\VMLib.dll.config
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\bin\Release\Dapper.xml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\AboutWindow.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\BoardPage.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\CreateUserDialog.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\ChooseLessonDialog.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\InputTab.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\Graph.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\Keyboard.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\KeyboardButton.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\CreateLessonDialog.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\EditLessonDialog.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\PasswordDialog.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandB.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandC.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandComma.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandE.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandEnter.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandG.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandH.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandI.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandLeftShift.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandM.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandMinus.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandN.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandO.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandP.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandPeriod.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandQ.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandR.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandRightShift.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandsHomeLeft.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandsHomeRight.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandSpace.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandT.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandU.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandV.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandW.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandX.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandY.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Hands\HandZ.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\KeyboardingHands.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\LockAccountDialog.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\MainWindow.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\PercentageMeter.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Controls\SpeedMeter.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\PerfomanceWindow.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\NotifierDialog.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Properties\DesignTimeResources.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\ResultWindow.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\SettingsDialog.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Dialogs\SignInWindow.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Themes\Default.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\Themes\Generic.baml
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18.g.resources
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor_v1._06._18.Properties.Resources.resources
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18.csproj.GenerateResource.cache
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18.csproj.CoreCompileInputs.cache
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18.csproj.CopyComplete
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18.exe
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18.pdb
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TachTypingTutor v1.06.18\obj\Release\TachTypingTutor v1.06.18_Content.g.cs

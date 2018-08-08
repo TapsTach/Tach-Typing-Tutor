@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0012C99B-F6D8-48E1-8162-22D38383D96F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TachTypingTutor_v1._06._18</RootNamespace>
+    <AssemblyName>TachTypingTutor v1.06.18</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon %284%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialDesignColors, Version=1.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.1.2\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=2.4.0.1044, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.2.4.0.1044\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Dialogs\AboutWindow.xaml.cs">
+      <DependentUpon>AboutWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BoardPage.xaml.cs">
+      <DependentUpon>BoardPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BoolVisibilityConvertor.cs" />
+    <Compile Include="Convertors\ConvertorBase.cs" />
+    <Compile Include="Convertors\NotifierButtonsVisibilityConvertor.cs" />
+    <Compile Include="Convertors\ViewConvertor.cs" />
+    <Compile Include="Dialogs\CreateUserDialog.xaml.cs">
+      <DependentUpon>CreateUserDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\ChooseLessonDialog.xaml.cs">
+      <DependentUpon>ChooseLessonDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SpeedMeter.xaml.cs">
+      <DependentUpon>SpeedMeter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\CreateLessonDialog.xaml.cs">
+      <DependentUpon>CreateLessonDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\EditLessonDialog.xaml.cs">
+      <DependentUpon>EditLessonDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\LockAccountDialog.xaml.cs">
+      <DependentUpon>LockAccountDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\PasswordDialog.xaml.cs">
+      <DependentUpon>PasswordDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\PerfomanceWindow.xaml.cs">
+      <DependentUpon>PerfomanceWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\ResultWindow.xaml.cs">
+      <DependentUpon>ResultWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SettingsDialog.xaml.cs">
+      <DependentUpon>SettingsDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\SignInWindow.xaml.cs">
+      <DependentUpon>SignInWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\NotifierDialog.xaml.cs">
+      <DependentUpon>NotifierDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Star.xaml.cs">
+      <DependentUpon>Star.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TWindow.cs" />
+    <Page Include="Dialogs\AboutWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BoardPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\CreateUserDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\ChooseLessonDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\InputTab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Graph.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\Keyboard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\KeyboardButton.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\CreateLessonDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\EditLessonDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\PasswordDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandB.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandComma.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandE.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandEnter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandG.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandH.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandI.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandLeftShift.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandMinus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandN.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandO.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandP.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandPeriod.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandQ.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandR.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandRightShift.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandsHomeLeft.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandsHomeRight.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandSpace.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandT.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandU.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandW.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandX.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandY.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hands\HandZ.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\KeyboardingHands.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\LockAccountDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controls\DigitalClock.cs" />
+    <Compile Include="Controls\InputTab.xaml.cs">
+      <DependentUpon>InputTab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Graph.xaml.cs">
+      <DependentUpon>Graph.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Keyboard.xaml.cs">
+      <DependentUpon>Keyboard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\KeyboardButton.xaml.cs">
+      <DependentUpon>KeyboardButton.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandB.xaml.cs">
+      <DependentUpon>HandB.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandC.xaml.cs">
+      <DependentUpon>HandC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandComma.xaml.cs">
+      <DependentUpon>HandComma.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandE.xaml.cs">
+      <DependentUpon>HandE.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandEnter.xaml.cs">
+      <DependentUpon>HandEnter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandG.xaml.cs">
+      <DependentUpon>HandG.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandH.xaml.cs">
+      <DependentUpon>HandH.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandI.xaml.cs">
+      <DependentUpon>HandI.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandLeftShift.xaml.cs">
+      <DependentUpon>HandLeftShift.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandM.xaml.cs">
+      <DependentUpon>HandM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandMinus.xaml.cs">
+      <DependentUpon>HandMinus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandN.xaml.cs">
+      <DependentUpon>HandN.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandO.xaml.cs">
+      <DependentUpon>HandO.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandP.xaml.cs">
+      <DependentUpon>HandP.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandPeriod.xaml.cs">
+      <DependentUpon>HandPeriod.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandQ.xaml.cs">
+      <DependentUpon>HandQ.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandR.xaml.cs">
+      <DependentUpon>HandR.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandRightShift.xaml.cs">
+      <DependentUpon>HandRightShift.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandsHomeLeft.xaml.cs">
+      <DependentUpon>HandsHomeLeft.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandsHomeRight.xaml.cs">
+      <DependentUpon>HandsHomeRight.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandSpace.xaml.cs">
+      <DependentUpon>HandSpace.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandT.xaml.cs">
+      <DependentUpon>HandT.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandU.xaml.cs">
+      <DependentUpon>HandU.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandV.xaml.cs">
+      <DependentUpon>HandV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandW.xaml.cs">
+      <DependentUpon>HandW.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandX.xaml.cs">
+      <DependentUpon>HandX.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandY.xaml.cs">
+      <DependentUpon>HandY.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hands\HandZ.xaml.cs">
+      <DependentUpon>HandZ.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\KeyboardingHands.xaml.cs">
+      <DependentUpon>KeyboardingHands.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Controls\PercentageMeter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\SpeedMeter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\PerfomanceWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\NotifierDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Properties\DesignTimeResources.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <ContainsDesignTimeResources>true</ContainsDesignTimeResources>
+    </Page>
+    <Page Include="Dialogs\ResultWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\SettingsDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dialogs\SignInWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Star.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\Dark.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\Default.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\Generic.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Themes\Light.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\PercentageMeter.xaml.cs">
+      <DependentUpon>PercentageMeter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App1.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CoreExtLib\CoreExtLib.csproj">
+      <Project>{4a4042d8-453c-41a2-ab45-c474e81c7c9c}</Project>
+      <Name>CoreExtLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CoreLib\CoreLib.csproj">
+      <Project>{C882B76D-3D3C-4246-9408-95F75B4D7E81}</Project>
+      <Name>CoreLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TawmFramework\TawmFramework.csproj">
+      <Project>{CD0B2325-D9CF-49EB-B36B-41F0FA761F3C}</Project>
+      <Name>TawmFramework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VMLib\VMLib.csproj">
+      <Project>{5621d470-7dcd-435e-9636-44f3f1ab90fa}</Project>
+      <Name>VMLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\fblike.png" />
+    <Resource Include="Images\musicOff.png" />
+    <Resource Include="Images\musicOn.png" />
+    <Resource Include="Images\soundOff.png" />
+    <Resource Include="Images\soundOn.png" />
+    <Resource Include="Images\speaker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="favicon %283%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="favicon %284%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Sounds\effect1.mp3" />
+    <Content Include="Sounds\effect2.mp3" />
+    <Content Include="Sounds\effect3.mp3" />
+    <Content Include="Sounds\effect4.mp3" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,243 @@
+﻿{
+"DefaultLessons": [
+	{
+		"id" : 1,
+		"lesson" : "ff jjj jf jfj j jff fjjf ff jfj j jff ff jjj fjj fjj fjf jfj jjj f fjjf jjj fjjf jfj fjjf f j fjj jff j fjj jf jjj fjjf f f fjf fjjf jff jjj ff jf fjjf fjjf f fjj fjj jf fjf j jj f j fjj jj jjj f jjj f fjjf j j jjj f j jjj jj ff fjf fjj f f ff jjj jj fjf f ff f fjjf fjj fjj f j fjf f jj jj jff jj jfj f jf jjj fjj j",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 1"
+	},
+	{
+		"id" : 2,
+		"lesson" : "fj fjjf f f fjf jj ff f j fjffjj f jf j jf j fjj fjjf jj jff f jff jff j f j f jff f jjj j fjf f fjjf j jff jj j f jf j ff jj fjj ff jfj jfj j ff fjjf jj ff fjj f jff jff f fjf jj jj f jfj j fjj",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 1(b)"
+	},
+	{
+		"id" : 3,
+		"lesson" : "jjd fdfj djd jk jd k dd fjk fd fk k jfkd dkkf fk dkd dd jk k dfj djd fkkk fk dff d dkkf fd fk fdfj fk k dkkf djd dff dkd dff dkd kdk k dkkf k jk fkkk jd k jfkd fk fk jd k d dkd jd k dd dffd d fk k k dff dff dd fk fk fd jd dd jjd dkd dkf kdk fdfj d kdk djd k fk dd fk dff dff kdk dkd dkf d k jk jfkd jd jfkd d kdk",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 2"
+	},
+	{
+		"id" : 4,
+		"lesson" : "dkd kdk djd jd dkf dkkf fkkk dd djd fd dkf fk dff dkkf fk fk fdfj fk fk jjd k k dkkf d dkd dd jjd fk fd fk k jk fd fd djd k jjd djd fk k fjk k dd dfj kdk jd djd fk dfj fd k dffd jd djd kdk dkd dd k fd fk jjd fjk fd fjk fk k dfj fd dd dkd d k dd kdk",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 2(b)"
+	},
+	{
+		"id" : 5,
+		"lesson" : "fl s l ldk l s slj s dks sf kl ll ls l ls dss lkj slk ks jl jjss l slj jl lkj l ldf s ld ll l ll ldk jjdl dlkk fl dss fld fl kl fl fl lkj fld ld fld js l dss kl jl jl ldk fld s ls s js kl ll ld dss fld l sf dss ll jl kl ls slj kl ldf kl dss ls js s dlkk js kl js ls fld jl jjdl ll jjdl ll ldf ld ldk slj",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 3"
+	},
+	{
+		"id" : 6,
+		"lesson" : "slj fl fld lkj ldf dlkk dss fl ld ldk kl dks fl sf dks ldk slj kl sf dlkk fl s kl l ll fl slj ll s s s dds s sf fld ks ks s ll dss s sf dks fl ldf dks ld s jjss ll l slk kl dks sf ll ldf s ll dlkk jl l ll ls l ldk ldk js dss s slj l dks fld jl",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 3 (b)"
+	},
+	{
+		"id" : 7,
+		"lesson" : "dc dc dcd da dad dc cd dac cad call slacks fads fad flak scads flask jackals sass all salsa lads scald asks lacks ask jackal sad dad jacks class lad scads sack alas lacks flak alfalfa calls clack alacks adds scalds cask add flasks scad lack call salsas alls sack salads casks sacks clad slack fall alfalfas ",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 4"
+	},
+	{
+		"id" : 8,
+		"lesson" : "call ska salad calf falls lack lass clads dads jack alack sacks jackass as call as flacks clacks all falls salads call ska adds jackals casks scalds clad lacks cask alacks jack flak salads sacks salsa jackass alfalfa clad calls dads lacks fads",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 4(b)"
+	},
+	{
+		"id" : 9,
+		"lesson" : "j jn jnj njn f ft ftf tft tn nt catcall flanks last scans talc knack cancans talk canst anal fan stats at stall alt snacks stand ants tad cantata talcs attack knack stalks tack tact scan scandals fats tad daft fatals fat nasal aft cants natal acts and stank act canal caftan sank cant tacts tanks slat flatlands attacks sandal alt flats cat snack cats stands tasks scandal",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 5"
+	},
+	{
+		"id" : 10,
+		"lesson" : "canals tat aslant tans flank cast flatland sands annals slants stank flat clank fatal stalk sand sandals fast dank fact tall lands land slats tank lats an ant tacks clans casts cans nasals fans can salts tat landfalls and tan lank staff salt scants clanks stack cancan atlas task fast",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 5(b)"
+	},
+	{
+		"id" : 11,
+		"lesson" : "k ki kik iki f fv fvf vfv vik stains fist livid cicada kiss vials knits stilt ails kills flail tail canvas vats kiln tin fascist lilacs assails ninja lilac inks visit activists cliffs clinicians dint sadist sci distinct tit kit said classical indistinct till antics tints vasts nick sits ills stints saint assassin ill dinals fatalists fills civilians visits",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 6"
+	},
+	{
+		"id" : 12,
+		"lesson" : "kilt fains link sisals inland still alkali dials classic nails slit island install civil stiff vans kilt kins links inkstand filial invalid flit activist assistant installs avians addict clicks cacti sadistic assail vandal instant kin infants assist villain lain avid landfills vial it ink skids nit silks valiant akin staid sin clinical slid jilt atavistic dial inflict initials instincts visa ticks",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 6(b)"
+	},
+	{
+		"id" : 13,
+		"lesson" : "j jmj mjm jim d de ded ede em massive divisiveness academic cadence endless sidelines stamina keeled fest vies fattest canes addenda vaccinate elf ineffective aimed jaded decline vine leasts ices incisivenesses keenness sedative enticed females staidness stake manic staminas neat decides intimateness feted tinkles metals satellite amends sees caffeine small declassified vales sites definitive scaliness caste latte slime advance assisted calmn scientist effected identical sedative infancies candles eclectic dialed indecisive silliness cellmate vile satellite evidence flat flimsiness vindicate maniac malltank cleans steed ideals vast nine aves",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 7"
+	},
+	{
+		"id" : 14,
+		"lesson" : "affiliate incidence satiate scientists esteem seeded clacked eave incandescence facets mist slaked tea destinate deficiencies selective eel attest semis eden addictive nineteen lifelines maned dedicate diffidence fitments seated dims saddled cackle likeness massive invaded aliases adjacent nicest leafed measled steadfast delineate nannies deface stalactite desists smelt enlist ailed landsmen neckline acned talent deceased lankiest devices",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 7(b)"
+	},
+	{
+		"id" : 15,
+		"lesson" : "j jh jhj hjh f fr frf rfr rich indiscreet tethers metal take retire skirmish reticent infirm slithered evaders discards thirteen diversifier cream headsets shiver arrears carnal half arches net edifier marinated have finches richer sandier herd liver frets draft strain darkens finance trials cricket rid enchant jerk check schematic finish thank incarcerate decrement hid credit enrich address discard thicken snarl cheer teach clench afresh stashed strive ranch rend dirtier disasters rare iterate fish restart heist caramel freshness cider achieved hearth incinerated fielder investment diameter hard ethics retail airfield mainstream",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 8"
+	},
+	{
+		"id" : 16,
+		"lesson" : "declared tired fresh freckled fade ajar jeer thirst mercantile clerics scimitars chilled mere derive mask shelter nectar seals simmer assist candid name raise chaste servile differentiate shirts flashcard traced ink career desecrate trinket maverick lard address tether fat dread check ethical heretic stitch incriminated steer craft sheath starch faster anthem circle reach limit service man caller red dentist distract rear divides actress startle flesh enriched sinner refine severe scarfs hive salt crave machete entrenchment defer refer arrive",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 8(b)"
+	},
+	{
+		"id" : 17,
+		"lesson" : "f fg fgf gfg l lo lol olo log goal javelin sledge cockleshell asteroid raged coach revenge drinker connection engine convalesce groves midnight donors knock firefighter song vitamin satellite loose check smatterings girl hand flatfooted grad overdress overdose nose fleeting rigged stomach conservative loan overact gale got official heroism vector gel shod goat egret gargled forage thigh chicken heighten school matter cart offend deformed monastic moisten masticate over evil over ego confiscate factors jolt grit off gas caning legginess rotational oversensitiv collectivists stroke collection alight hook mistake allocative fragment",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 9"
+	},
+	{
+		"id" : 18,
+		"lesson" : "short rang fading coast dog content notice raccoon gondola firing erode sidelong cottage togs striking altogether kick tacking foretaste sensitive holiest fragile introvert doing glove comment connect dives scaffold recoiled latch sentence rig condensate dosage relocate rocking men senior offhandedness endorse contritions cooking signal magnolia shedding dregarded frost jingle old grandfather evensongs smart locking disintegration comfiest shavings decorate cremation estrangement voters snorkel demarcations glorifies idiots skating home astronomic valediction endangered elevating remove",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 9(b)"
+	},
+	{
+		"id" : 19,
+		"lesson" : "f fb fbf bfb ; ;p ;p; p;p fib nib pip reprimand omnipresent hibernates caper flaps sandblast sobrieties tabbing pejorative collapse spreads intercept petite adopters respirators penchant prospect pain obsolete remembers abolishes entrapment lambed transporting patriotic point spooled disband boilermakers shippings bloated precipitation intangibles spatter demographer embitterment pitchfork plaited being childbirth apprenticeships clobber boarding doorstop paint operative peril dispersal chaplain plodded dispose grease scapegoat proof fill premier carbine readership sandbag perceiving siphon bareheaded spottiest embroi span breach taped provision blackjack",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 10"
+	},
+	{
+		"id" : 20,
+		"lesson" : "perfect sleepiness flips bed bar perspire impose bast deprives envelope shipment considerable hobbles platoon labels impractical attempt blot gap brainstorm specialists steepen paired composed ship keep mate shock taper side cancels pollinate paramedics emptiness repair handpicked parallel tape banister pothole brightens promote escapable prince compile breadth pariah bind shop poach torpedo dispossess compartment contraptions presidents emphasis calming battered peek blind bighearted backstairs boot flapjack parallelism repair telephone bemoan escarpment teach prised persons over abhors help records",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 10(b)"
+	},
+	{
+		"id" : 21,
+		"lesson" : "a aq aqa qaq j ju juj uju just aqua quest consult toughs sequence thoughtless staunch gunshots summer pounce afoul differentiated haircut heuristics flatulent publication humid puffiness underpins thousand scripture brought regurgitate calibrated contributions quell unresponsive concur accounting uncap runoff liquid sunned monitored populous scudded unlearn fugitive furnace fur level suckles roguish illumined rectangular fortunate turbo mournful teaspoon laughable quest established documents coupon quiet robust influence undervalue thoughtless turban submit aforethought arousal unhitch untiring somersault soundproofs subtraction curve queen haiku sunburned quit",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 11"
+	},
+	{
+		"id" : 22,
+		"lesson" : "unsupportable bullfrogs mutated tunes outfit trump constructional recurring incongruous trustful populations minute cruelties function butternut buddies overture hug outrun amputate crunches numbness trust surgical flamed bend sculpture nomenclature routers curricular measurable shaped duress credulous quip scrum formula boasted performed circumference confused under budgie cult hunchback trust publishers amuse logout unchanging partition public sputters modularities casualness bucketful insulation squeal mutant fatigue intervals putrid surmise cubic corpuscles glum sunbathe launderer liquidation pass complain volumes account bivouac unregister adventure opportune",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 11(b)"
+	},
+	{
+		"id" : 23,
+		"lesson" : "s sw sws wsw j jn jnj njn west nju nut jin buttress commoner invisible malaria sand bagged irresistible cling within passionate policemen tangible replace trilingual misconstrue bin generation ignoramuses black lingo hidden coded pans unfold piling interview abstraction hardwood pursuant nerds arbitrage limousines mugging confine guest scullion beechwood numeral universal hamstring canon mockingbirds predation vote master nice aggregation sandpiper enter wide congregating weakened gravitation intact speak concise paper tense blindness income sponge pancake print impolite lolling assented injure distillations ships sanded varied immature outbuilding bottleneck offhanded casual person linking toughness wrench alliteration squawking signposted",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 12"
+	},
+	{
+		"id" : 24,
+		"lesson" : "balances flat counter invent ordain demand paternal council woodlands sugarcane resemble subsequent grim equidistant swifter shrewd disjoint recipient nature conventional irresponsible cognate rejuvenate unconventional adverse ascend fraudulent dinner propagandist submission foreman disenchantment mandate terminal inflict momentous bond wielding poaching replacement circumstances methodical sharpen planks semantics trip urns freeing signified spurn cooking wheat bliss prints unblinking assigned hanging disinclined",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 12(b)"
+	},
+	{
+		"id" : 25,
+		"lesson" : "d dc dcd cdc s sd s sx sxs xsx crux sex duck boxes acid retrench panache fractious compressor scrawniest scour thunderclouds unpack selects function concoct directions contentious corrupt chug infere competitors peace wackier mice luncheon compose faculties patches pencil concern inspect lock contraception stock coarse execution commercial crave muck correct coffee subscripts escape livestock scuba cares concordant defunct perceives cross hatch charge civil exclusion biscuit sense crime common crisis restrict unsociable exacerbate ergonomics braced infect recited score occult peck conformation quit under claim exalt explosive choir decrement witchcraft",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 13"
+	},
+	{
+		"id" : 26,
+		"lesson" : "perception instruct consent evacuate efficient licked prancing stack experiment teacup saccharides beseech acres counted backlash commence universal smack maximum shocking discord chariot carcass cliffs noticed cosmetics scriptural vexed scoff constituents creation commentate innocent disciple inclusive cleanliness priceless impractical saddle lilac muscles projects beckoning compliment solace parachute cowardice combat contour stereoscope expressive blackguarded picking minuscule clamber merchandise crippled technologist jurisdiction incinerate ",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 13(b)"
+	},
+	{
+		"id" : 27,
+		"lesson" : "j jy jyj yjy a az aza zaz zap zip joy jazz detoxify accompany orthodoxy westernizes incomprehensible player contemporary sedimentary demilitarize universally grippingly fragile mythical jimmy speedy nudity horse fact qualify imposingly desolately crucial rhythmic capacious stray patriarchy employee challenge ingenuous summary flirtatiously abidingly prickly sexily consistently legitimization uproar toasty dehumanizes analytic freezing difficulty instinct monetizing buoy laundry vary baptizers debauchery delightfully asymmetry",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 14"
+	},
+	{
+		"id" : 28,
+		"lesson" : "terminally scarcely epidemic lazy yearn scrutinizes sanctimonious searingly tantalized admirably unequal zulu dizzy cower lyricists joyful yellow warranty inhumanity richly expression array carrying ridiculously occupy minimizers horizon flippantly credibility memorially maze effigy unorganized acoustic brotherly inconsistently zebra interdependency syntactic ready zeppelin very youthful descry burly modify subway prodigy apply cosmetically loyalty jazz thirsty curly yearned infrequent ferry thuggery disarmingly distantly layperson uncriticizing",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 14(b)"
+	},
+	{
+		"id" : 29,
+		"lesson" : "Tanitansy Issac Lindbergh Kennett Holmes Nicolea Sherm Eloise Gratia Mobutu Leonidas Lexi CCU Goth Reinald Tye Gaines Randell Mordred Nalani Aldous Jacqueline Foley Montpelier Samantha Nadeen Deann Masonic Vanderbilt Ninetta Gates RFC Darren Wolfgang Norah Tao Saleem Keefer Boote Micmacs Farmer Cleve Drona Lhasa Bruce Macintosh Grammies Dutchman Pissaro Graehme Thornton Kamikazes Yaounde Clifford Dvina Ellynn Exchequer Korans Angelle MacArthur Sharleen Br Vulcan Karylin Margarette Emyle Angola Dexedrine Bendicty Berkowitz Oise Subaru Ujungpandang Fanechka Navarro Odie Jacky Highlands Jun Natalie Gujarati Shelby LBJ Negroid Univac Vistula Kinsey Pole Arvy Hui Byronic QM Talmudic TWX Annetta Babylonian Lucille Wesleyan",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 15"
+	},
+	{
+		"id" : 30,
+		"lesson" : "Vanderpoel Stoicisms Rebekkah Louisette Sir Karlee Ricardo Letti Travis Tyndale Davide Gabbie GATT NC Bunsen Munchhausen Irkutsk Windows Rom Hyades Melcher Surabaya WV Silurian Verla Harpy Chaddie Vandyke Rushmore Bennett Aldo Alane Emilio Gino Galbraith Darwinian Cornelle Lothaire Murdock Coletta Plath Cash Frigga Frenches Deonne Lycras Mahavira Tocantins Melly Wales Bradney Hartman Stan Juliana Occident Valera Robson Montenegro Della Delcine Spengler Ferrel Occidentals Magnuson Jacobs Friend Daffi Methuselahs SBA Asoka Palestine VT COBOLs Jastrow Malayans ABCs Krakow Hippocratic Tobey Whitewater Vichy SST Simpson Zia Dalton Laban Fonzie Charity Lysistrata Eocene Ulster Nollie Merrily USA Uranus Padraic Milty Grenada Scrooge Browning Wait Smokey Putin",
+		"stage" : null,
+		"noteId" : null,
+		"Title" : null,
+		"Name" : "lesson 15(b)"
+	}
+]}

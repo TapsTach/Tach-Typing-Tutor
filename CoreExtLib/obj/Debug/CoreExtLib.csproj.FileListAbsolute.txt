@@ -1,0 +1,6 @@
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\CoreExtLib\bin\Debug\CoreExtLib.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\CoreExtLib\bin\Debug\CoreExtLib.pdb
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\CoreExtLib\obj\Debug\CoreExtLib.csprojAssemblyReference.cache
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\CoreExtLib\obj\Debug\CoreExtLib.csproj.CoreCompileInputs.cache
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\CoreExtLib\obj\Debug\CoreExtLib.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\CoreExtLib\obj\Debug\CoreExtLib.pdb

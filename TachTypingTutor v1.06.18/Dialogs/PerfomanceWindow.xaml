@@ -1,0 +1,171 @@
+﻿<local:TWindow x:Class="TachTypingTutor_v1._06._18.PerfomanceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TachTypingTutor_v1._06._18"
+        mc:Ignorable="d" ResizeMode="NoResize" WindowStyle="None"
+        Title="Perfomance" Height="500" Width="800" Background="{DynamicResource windowBackground}">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="FontFamily" Value="cambria math"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="{DynamicResource textBlockForeground}"/>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="IsReadOnly" Value="True"/>
+            <Setter Property="Width" Value="180"/>
+            <Setter Property="Margin" Value="1"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Background" Value="#8fff"/>
+        </Style>
+        <Style TargetType="StackPanel">
+            <Setter Property="Margin" Value="10 2"/>
+        </Style>
+        
+        <Style  TargetType="{x:Type GridViewColumnHeader}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                        <Border  Padding="5">
+                            <TextBlock x:Name="ContentHeader" Text="{TemplateBinding Content}" Padding="2" Width="{TemplateBinding Width}" TextAlignment="Center" FontSize="{TemplateBinding FontSize}" Foreground="{TemplateBinding Foreground}" HorizontalAlignment="Left"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Foreground" Value="{DynamicResource foreground}"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="11"/>
+                
+        </Style>
+    </Window.Resources>
+    <Border >
+        <Grid>
+            <TabControl Margin="10 10 10 40" Background="Transparent" BorderThickness="0.5">
+                <TabItem Header="Average Statistics">
+                    <StackPanel Margin="30">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Average Accuracy"/>
+                            <TextBox Name="AverageAccuracy"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Average TrueAccuracy"/>
+                            <TextBox Name="AverageTrueAccuracy"/>
+                        </StackPanel>
+                        <Separator Margin="30 10"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Average Wpm Speed"/>
+                            <TextBox Name="AverageWpmSpeed"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Average Cpm Speed"/>
+                            <TextBox Name="AverageCpmSpeed"/>
+                        </StackPanel>
+                        <Separator Margin="30 10" />
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Total Errors"/>
+                            <TextBox Name="TotalErrors"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Total Correct Entries"/>
+                            <TextBox Name="TotalCorrect"/>
+                        </StackPanel>
+                        
+                        <Separator Margin="30 10"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Total Time Taken"/>
+                            <TextBox Name="TotalTimeTaken"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Total Length"/>
+                            <TextBox Name="TotalLength"/>
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem>
+
+                <TabItem Header="Session History">
+                    <ListView Foreground="Wheat" Margin="6 30" ItemsSource="{Binding SessionHistoryItems}">
+
+                        <ListView.View >
+
+                            <GridView>
+                                <GridView.Columns>
+                                    <GridViewColumn  Header="Lesson Name" DisplayMemberBinding="{Binding LessonName}" Width="100"/>
+                                    <GridViewColumn Header="Speed Wpm"  DisplayMemberBinding="{Binding SpeedWpm}" Width="80"/>
+                                    <GridViewColumn Header="Speed Cpm"  DisplayMemberBinding="{Binding SpeedCpm}" Width="80"/>
+                                    <GridViewColumn Header="Accuracy" DisplayMemberBinding="{Binding Accuracy}" Width="80"/>
+                                    <GridViewColumn Header="True Accu..."  DisplayMemberBinding="{Binding TrueAccuracy}" Width="80"/>
+                                    <GridViewColumn Header="Lesson Len..." DisplayMemberBinding="{Binding LessonLength}" Width="80"/>
+                                    <GridViewColumn Header="Correct" DisplayMemberBinding="{Binding Correct}" Width="80"/>
+                                    <GridViewColumn Header="Errors" DisplayMemberBinding="{Binding Errors}" Width="80"/>
+                                    <GridViewColumn Header="Time Taken"  DisplayMemberBinding="{Binding TimeTakenString}" Width="80"/>
+                                </GridView.Columns>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </TabItem>
+                <TabItem Header="Alltime History">
+                    <ListView Margin="6 30" ItemsSource="{Binding AlltimeHistoryItems}">
+                        <ListView.View>
+                            <GridView>
+                                <GridView.Columns>
+                                    <GridViewColumn Header="Date" DisplayMemberBinding="{Binding Date}" Width="100"/>
+                                    <GridViewColumn Header="Speed Wpm" DisplayMemberBinding="{Binding SpeedWpm}" Width="80"/>
+                                    <GridViewColumn Header="Speed Cpm" DisplayMemberBinding="{Binding SpeedCpm}" Width="80"/>
+                                    <GridViewColumn Header="Accuracy" DisplayMemberBinding="{Binding Accuracy}" Width="80"/>
+                                    <GridViewColumn Header="True Acc..." DisplayMemberBinding="{Binding TrueAccuracy}" Width="80"/>
+                                    <GridViewColumn Header="Entries" DisplayMemberBinding="{Binding Entries}" Width="80"/>
+                                    <GridViewColumn Header="Correct" DisplayMemberBinding="{Binding Correct}" Width="80"/>
+                                    <GridViewColumn Header="Errors" DisplayMemberBinding="{Binding Errors}" Width="80"/>
+                                    <GridViewColumn Header="Time Taken" DisplayMemberBinding="{Binding TimeTakenString}" Width="80"/>
+                                </GridView.Columns>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </TabItem>
+                <TabItem Header="Character">
+                    <Grid Margin="10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="365*"/>
+                        </Grid.RowDefinitions>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                            <TextBlock Width="350" Text="{Binding ModeLabel}" Foreground="{DynamicResource textBlockForeground}" VerticalAlignment="Bottom" Margin="3"/>
+                            <Button Content="Speed" Width="120" Background="Transparent" BorderThickness="0 0 0 1" BorderBrush="{DynamicResource foreground}"/>
+                            <Button Content="Accuracy"  Width="120" Background="Transparent" BorderThickness="0 0 0 1" BorderBrush="{DynamicResource foreground}" />
+                            <Button Content="Entries"  Width="120" Background="Transparent" BorderThickness="0 0 0 1" BorderBrush="{DynamicResource foreground}"/>
+                        </StackPanel>
+                        <ListView Grid.Row="1" ItemsSource="{Binding Letters}">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Header="Character" Width="100">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding CharacterString}" FontWeight="Bold" FontSize="15" HorizontalAlignment="Center" Foreground="Maroon" TextAlignment="Center" Width="100"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Header="Entries" DisplayMemberBinding="{Binding Entries}" Width="100"/>
+                                    <GridViewColumn Header="Correct Entries" DisplayMemberBinding="{Binding Correct}" Width="100"/>
+                                    <GridViewColumn Header="Incorrect" DisplayMemberBinding="{Binding Mistakes}" Width="100"/>
+                                    <GridViewColumn Header="Average Time" DisplayMemberBinding="{Binding AverageTime, StringFormat= 0 ms}" Width="100"/>
+
+                                    <GridViewColumn Header="Accuracy" DisplayMemberBinding="{Binding Accuracy, StringFormat= 0.##%}" Width="100"/>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </Grid>
+                </TabItem>
+            </TabControl>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Right" >
+                <Button Content="Close" Width="80"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</local:TWindow>

@@ -1,0 +1,53 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ResourceDictionary.MergedDictionaries>
+
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.wpf;component/Themes/MaterialDesignTheme.Dark.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Grey.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+        <ResourceDictionary >
+
+            <SolidColorBrush x:Key="sldHome" Color="Gray" Opacity=".7" />
+            <Color x:Key="kbGradientStopColor1"  >#FB000000</Color>
+            <Color x:Key="kbGradientStopColor2"  >White</Color>
+            <Color x:Key="kbGradientStopColor3"  >#FF717171</Color>
+            <SolidColorBrush x:Key="kbBackground" Color="#FF000000"/>
+            <SolidColorBrush x:Key="kbControlBackground" Color="#FF464646"/>
+            <SolidColorBrush x:Key="kbControlForeground" Color="#FFFAEBD7"/>
+            <SolidColorBrush x:Key="kbButtonPanBackground" Color="#FF000000"/>
+             <!--Keyboard end-->
+
+
+            <LinearGradientBrush x:Key="windowBackground" EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="Gray" Offset="0.504"/>
+                <GradientStop Color="#FF1F1F1E" Offset="1"/>
+                <GradientStop Color="#FF191918"/>
+            </LinearGradientBrush>
+
+            <SolidColorBrush x:Key="controlBackground" Color="#FF555555"/>
+            <SolidColorBrush x:Key="borderBrush" Color="#669E9E9E"/>
+            <SolidColorBrush x:Key="listBackground" Color="#FFCFCFCF"/>
+            <SolidColorBrush x:Key="foreground" Color="Wheat"/>
+            <SolidColorBrush x:Key="textBlockForeground" Color="Tan"/>
+            <RadialGradientBrush x:Key="statsBackground">
+                <GradientStop Color="#FF899393" Offset="1"/>
+                <GradientStop Color="#FFCDCDCD"/>
+            </RadialGradientBrush>
+
+            <!--region STYLES-->
+            <Style TargetType="Button" BasedOn="{StaticResource MaterialDesignRaisedDarkButton}" >
+                <Setter Property="Margin" Value="1"/>
+                <Setter Property="Background" Value="#FF6B6B6B"/>
+                <Setter Property="FontSize" Value="11"/>
+                <Setter Property="FontWeight" Value="SemiBold"/>
+                <Setter Property="Foreground" Value="{StaticResource foreground}"/>
+            </Style>
+
+            <!--#endregion STYLES-->
+            
+        </ResourceDictionary>
+    </ResourceDictionary.MergedDictionaries>
+
+</ResourceDictionary>

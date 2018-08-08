@@ -1,0 +1,171 @@
+﻿<UserControl x:Class="TachTypingTutor_v1._06._18.Keyboard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TachTypingTutor_v1._06._18"
+             mc:Ignorable="d" Height="159" Width="636" >
+    <Grid Background="#FF252525" Name="mainGrid">
+        <Grid.Resources>
+            <Style TargetType="local:KeyboardButton">
+                <Setter Property="Size" Value="26 22"/>
+                <Setter Property="FontSize" Value="7.5"/>
+                <Setter Property="Margin" Value="1"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Style>
+        </Grid.Resources>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="228*"/>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="61*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.2*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border BorderThickness=".2" HorizontalAlignment="Left" Padding="5 0" CornerRadius="3" Background="#19FAEBD7" BorderBrush="AntiqueWhite" Grid.Column="1" Margin="5">
+            <TextBlock FontSize="18" Text="Tach Tech" Foreground="Wheat" FontFamily="times new roman" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Border>
+        <StackPanel Orientation="Horizontal" Grid.ColumnSpan="3">
+            <local:KeyboardButton x:Name="esc" UpperText="Esc" Margin="1 1 10 1"/>
+            <local:KeyboardButton x:Name="f1" UpperText="F1"/>
+            <local:KeyboardButton x:Name="f2" UpperText="F2"/>
+            <local:KeyboardButton x:Name="f3" UpperText="F3"/>
+            <local:KeyboardButton x:Name="f4" UpperText="F4" Margin="1 1 10 1"/>
+            <local:KeyboardButton x:Name="f5" UpperText="F5"/>
+            <local:KeyboardButton x:Name="f6" UpperText="F6"/>
+            <local:KeyboardButton x:Name="f7" UpperText="F7"/>
+            <local:KeyboardButton x:Name="f8" UpperText="F8" Margin="1 1 10 1"/>
+            <local:KeyboardButton x:Name="f9" UpperText="F9"/>
+            <local:KeyboardButton x:Name="f10" UpperText="F10"/>
+            <local:KeyboardButton x:Name="f11" UpperText="F11"/>
+            <local:KeyboardButton x:Name="f12" UpperText="F12"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="3">
+            <local:KeyboardButton LowerText="`" x:Name="dx" UpperText="~"/>
+            <local:KeyboardButton LowerText="1" x:Name="d1" UpperText="!" HighlightingColor="Blue"/>
+            <local:KeyboardButton LowerText="2" x:Name="d2" UpperText="@"/>
+            <local:KeyboardButton LowerText="3" x:Name="d3" UpperText="#" HighlightingColor="Yellow"/>
+            <local:KeyboardButton LowerText="4" x:Name="d4" UpperText="$" HighlightingColor="Purple"/>
+            <local:KeyboardButton LowerText="5" x:Name="d5" UpperText="%" HighlightingColor="Purple"/>
+            <local:KeyboardButton LowerText="6" x:Name="d6" UpperText="^" HighlightingColor="Maroon"/>
+            <local:KeyboardButton LowerText="7" x:Name="d7" UpperText="&amp;" HighlightingColor="Maroon"/>
+            <local:KeyboardButton LowerText="8" x:Name="d8" UpperText="*" HighlightingColor="Yellow"/>
+            <local:KeyboardButton LowerText="9" x:Name="d9" UpperText="(" HighlightingColor="Green"/>
+            <local:KeyboardButton LowerText="0" x:Name="d0" UpperText=")" HighlightingColor="Blue"/>
+            <local:KeyboardButton LowerText="-" x:Name="minus" UpperText="_" HighlightingColor="Blue"/>
+            <local:KeyboardButton LowerText="=" x:Name="plus" UpperText="+" HighlightingColor="Blue"/>
+            <local:KeyboardButton x:Name="back" UpperText="Back" Size="52 22" HighlightingColor="Blue"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.ColumnSpan="3">
+            <local:KeyboardButton LowerText="" x:Name="tab" UpperText="Tab" Size="39 22"/>
+            <local:KeyboardButton LowerText="" x:Name="q" UpperText="Q" HighlightingColor="Blue"/>
+            <local:KeyboardButton LowerText="" x:Name="w" UpperText="W" HighlightingColor="Green" />
+            <local:KeyboardButton LowerText="" x:Name="e" UpperText="E" HighlightingColor="Yellow"/>
+            <local:KeyboardButton LowerText="" x:Name="r" UpperText="R" HighlightingColor="Purple"/>
+            <local:KeyboardButton LowerText="" x:Name="t" UpperText="T" HighlightingColor="Purple"/>
+            <local:KeyboardButton LowerText="" x:Name="y" UpperText="Y" HighlightingColor="Maroon"/>
+            <local:KeyboardButton LowerText="" x:Name="u" UpperText="U" HighlightingColor="Maroon"/>
+            <local:KeyboardButton LowerText="" x:Name="i" UpperText="I" HighlightingColor="Yellow"/>
+            <local:KeyboardButton LowerText="" x:Name="o" UpperText="O" HighlightingColor="Green"/>
+            <local:KeyboardButton LowerText="" x:Name="p" UpperText="P" HighlightingColor="Blue"/>
+            <local:KeyboardButton LowerText="" x:Name="oBrac" UpperText="{}{" HighlightingColor="Blue"/>
+            <local:KeyboardButton LowerText="" x:Name="cBrac" UpperText="}" HighlightingColor="Blue"/>
+            <local:KeyboardButton LowerText="" x:Name="bSlash" UpperText="\" Size="39 22" HighlightingColor="Blue"/>
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.ColumnSpan="3">
+            <local:KeyboardButton x:Name="capsLock" UpperText="Caps" Size="49 22"/>
+            <local:KeyboardButton x:Name="a" UpperText="A" HighlightingColor="Blue" />
+            <local:KeyboardButton x:Name="s" UpperText="S"  HighlightingColor="Green" />
+            <local:KeyboardButton x:Name="d" UpperText="D" HighlightingColor="Yellow" />
+            <local:KeyboardButton x:Name="f" UpperText="F" HasBump="True" HighlightingColor="Purple" />
+            <local:KeyboardButton x:Name="g" UpperText="G" HighlightingColor="Purple" />
+            <local:KeyboardButton x:Name="h" UpperText="H" HighlightingColor="Maroon" />
+            <local:KeyboardButton x:Name="j" UpperText="J" HasBump="True" HighlightingColor="Maroon"/>
+            <local:KeyboardButton x:Name="k" UpperText="K" HighlightingColor="Yellow" />
+            <local:KeyboardButton x:Name="l" UpperText="L" HighlightingColor="Green" />
+            <local:KeyboardButton x:Name="colen" UpperText=":" HighlightingColor="Blue" />
+            <local:KeyboardButton x:Name="quot" UpperText="&quot;" HighlightingColor="Blue" />
+            <local:KeyboardButton x:Name="enter" UpperText="Enter" Size="57 22" HighlightingColor="Blue"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="4" Grid.ColumnSpan="3">
+            <local:KeyboardButton x:Name="lShift" UpperText="Shift" Size="62 22" HighlightingColor="Blue" />
+            <local:KeyboardButton x:Name="z" UpperText="Z" HighlightingColor="Blue" />
+            <local:KeyboardButton x:Name="x" UpperText="X" HighlightingColor="Green" />
+            <local:KeyboardButton x:Name="c" UpperText="C" HighlightingColor="Yellow" />
+            <local:KeyboardButton x:Name="v" UpperText="V" HighlightingColor="Purple" />
+            <local:KeyboardButton x:Name="b" UpperText="B" HighlightingColor="Purple" />
+            <local:KeyboardButton x:Name="n" UpperText="N" HighlightingColor="Maroon" />
+            <local:KeyboardButton x:Name="m" UpperText="M" HighlightingColor="Maroon" />
+            <local:KeyboardButton x:Name="lt" UpperText="&lt;" HighlightingColor="Yellow" />
+            <local:KeyboardButton x:Name="gt" UpperText="&gt;" HighlightingColor="Green" />
+            <local:KeyboardButton x:Name="quest" UpperText="?" HighlightingColor="Blue" />
+            <local:KeyboardButton x:Name="rShift" UpperText="Shift" Size="72 22" HighlightingColor="Blue"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="5" Grid.ColumnSpan="3">
+            <local:KeyboardButton x:Name="lCtrl" MiddleText="Ctrl"  Size="40 22" />
+            <local:KeyboardButton x:Name="lWin" MiddleText="W" FontFamily="Marlett" Size="30 22"  />
+            <local:KeyboardButton x:Name="lAlt" MiddleText="Alt"  Size="40 22" />
+            <local:KeyboardButton x:Name="space" MiddleText="Space" Size="155 22" HighlightingColor="SaddleBrown" />
+            <local:KeyboardButton x:Name="rAlt" MiddleText="Alt"  Size="40 22" />
+            <local:KeyboardButton x:Name="rWin" MiddleText="W" FontFamily="Marlett"  Size="30 22" />
+            <local:KeyboardButton  MiddleText="Pr" />
+            <local:KeyboardButton x:Name="rCtrl" MiddleText="Ctrl"  Size="40 22" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="1" >
+            <local:KeyboardButton x:Name="insert" MiddleText="Insert" />
+            <local:KeyboardButton x:Name="home" MiddleText="Home" />
+            <local:KeyboardButton x:Name="pageUp" MiddleText="Pg Up" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="2" >
+            <local:KeyboardButton x:Name="delete" MiddleText="Delete" />
+            <local:KeyboardButton x:Name="end" MiddleText="End" />
+            <local:KeyboardButton x:Name="pageDown" MiddleText="Pg Dn" />
+        </StackPanel>
+        <local:KeyboardButton x:Name="up" MiddleText="↑" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left" Margin="28 1 1 1"/>
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="5" >
+            <local:KeyboardButton x:Name="left" MiddleText="←" />
+            <local:KeyboardButton x:Name="down" MiddleText="↓" />
+            <local:KeyboardButton x:Name="right" MiddleText="→" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="0" HorizontalAlignment="Right" Width="84" Margin="0,0,14,0">
+            <local:KeyboardButton MiddleText="print" />
+            <local:KeyboardButton MiddleText="scroll" />
+            <local:KeyboardButton MiddleText="break" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="1">
+            <local:KeyboardButton x:Name="numLock" MiddleText="num" />
+            <local:KeyboardButton x:Name="padDiv" MiddleText="/" />
+            <local:KeyboardButton x:Name="padMult" MiddleText="*" />
+            <local:KeyboardButton x:Name="padMinus" MiddleText="-" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="2">
+            <local:KeyboardButton x:Name="pad7" MiddleText="7" />
+            <local:KeyboardButton x:Name="pad8" MiddleText="8" />
+            <local:KeyboardButton x:Name="pad9" MiddleText="9" />
+        </StackPanel>
+        <local:KeyboardButton x:Name="padPlus" MiddleText="+" Grid.RowSpan="2"  Grid.Column="2" Grid.Row="2" Size="26 48" HorizontalAlignment="Right"  Margin="0,0,3,1"/>
+        <StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="3">
+            <local:KeyboardButton x:Name="pad4" MiddleText="4" />
+            <local:KeyboardButton x:Name="pad5" MiddleText="5" HasBump="True"/>
+            <local:KeyboardButton x:Name="pad6" MiddleText="6" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="4">
+            <local:KeyboardButton x:Name="pad1" MiddleText="1" />
+            <local:KeyboardButton x:Name="pad2" MiddleText="2" />
+            <local:KeyboardButton x:Name="pad3" MiddleText="3" />
+        </StackPanel>
+        <local:KeyboardButton x:Name="padEnter" MiddleText="enter"  Grid.Column="2" Grid.Row="4" HorizontalAlignment="Right" Grid.RowSpan="2" Size="26 48" Margin="0,0,3,1"/>
+        <StackPanel Orientation="Horizontal" Grid.Column="2" Grid.Row="5">
+            <local:KeyboardButton x:Name="pad0" MiddleText="0"  Size="54 22"/>
+            <local:KeyboardButton x:Name="padDot" MiddleText="."/>
+        </StackPanel>
+    </Grid>
+</UserControl>                        
+               

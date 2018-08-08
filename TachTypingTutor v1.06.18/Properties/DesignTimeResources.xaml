@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:TachTypingTutor_v1._06._18.Properties">
+    <ResourceDictionary.MergedDictionaries>
+        <!--<ResourceDictionary Source="/TachTypingTutor v1.06.18;component/Themes/Dark.xaml"/>-->
+        <ResourceDictionary Source="/TachTypingTutor v1.06.18;component/Themes/Light.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+
+</ResourceDictionary>

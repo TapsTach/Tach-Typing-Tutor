@@ -1,0 +1,8 @@
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TawmFramework\bin\Debug\TawmFramework.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TawmFramework\bin\Debug\TawmFramework.pdb
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TawmFramework\obj\Debug\TawmFramework.csprojAssemblyReference.cache
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TawmFramework\obj\Debug\TawmFramework.Properties.Resources.resources
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TawmFramework\obj\Debug\TawmFramework.csproj.GenerateResource.cache
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TawmFramework\obj\Debug\TawmFramework.csproj.CoreCompileInputs.cache
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TawmFramework\obj\Debug\TawmFramework.dll
+C:\Users\Tapiwa Tachiona\Documents\Visual Studio 2015\Projects\TachTypingTutor v1.06.18\TawmFramework\obj\Debug\TawmFramework.pdb

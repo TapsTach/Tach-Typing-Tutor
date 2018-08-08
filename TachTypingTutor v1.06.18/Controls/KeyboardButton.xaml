@@ -1,0 +1,28 @@
+﻿<UserControl x:Class="TachTypingTutor_v1._06._18.KeyboardButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TachTypingTutor_v1._06._18" Name="button"
+              Height="22.304" Width="26">
+    <Border BorderThickness="2" Background="Black" Margin="-2">
+        <Canvas Background="Black" ClipToBounds="True" Name="canvas">
+            <Grid Name="outerCan" Width="{Binding ElementName=button, Path=Width}" Height="{Binding ElementName=button, Path=Height}" RenderTransformOrigin="0.5,0.5">
+
+                <Grid.Background>
+                    <RadialGradientBrush GradientOrigin="-31,0.5" RadiusX="-1">
+                        <GradientStop Color="{StaticResource kbGradientStopColor1}" Offset="1" />
+                        <GradientStop Color="White" Offset="0.866" />
+                    </RadialGradientBrush>
+                </Grid.Background>
+                <Rectangle HorizontalAlignment="Center" VerticalAlignment="Center" Name="innerRect" Fill="#19EEEEEE"  StrokeThickness=".02" Stroke="AntiqueWhite"/>
+                <TextBlock Name="txtUpper" VerticalAlignment="Top" HorizontalAlignment="Left" />
+                <TextBlock Name="txtLower" VerticalAlignment="Bottom" HorizontalAlignment="Right"  />
+                <TextBlock Name="txtMiddle" VerticalAlignment="Center" HorizontalAlignment="Center"  />
+                <Rectangle Height="1" Name="bump" Visibility="Collapsed" Width="8" Stroke="Black" StrokeThickness="1" VerticalAlignment="Bottom" Margin="0 5"/>
+                <Rectangle HorizontalAlignment="Center" VerticalAlignment="Center"  StrokeThickness="1" Name="rectBackHighlight" Width="{Binding Width, ElementName=innerRect}" Height="{Binding Height, ElementName=innerRect}" Stroke="LightGreen"  Visibility="Collapsed"  Opacity=".4"/>
+                <Rectangle HorizontalAlignment="Center" VerticalAlignment="Center"  StrokeThickness="1" Name="rectHighlight" Width="{Binding Width, ElementName=innerRect}" Height="{Binding Height, ElementName=innerRect}" Stroke="LightGreen"  Visibility="Collapsed"  Opacity="1"/>
+            </Grid>
+        </Canvas>
+    </Border>
+</UserControl>

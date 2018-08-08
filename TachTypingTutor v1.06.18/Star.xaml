@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="TachTypingTutor_v1._06._18.Star"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             
+            >
+    
+        <Path x:Name="star1" Data="M103,277 L84,320 45,336 82,356 103,399 118,355 156,337 120,319 z" HorizontalAlignment="Left"  Stretch="Fill" VerticalAlignment="Top" >
+            <Path.Fill>
+                <RadialGradientBrush>
+                    <GradientStop Color="Gainsboro" Offset="0"/>
+                    <GradientStop Color="#FFC9C110" Offset="1"/>
+                </RadialGradientBrush>
+            </Path.Fill>
+        </Path>
+    
+</UserControl>

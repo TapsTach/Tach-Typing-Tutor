@@ -1,0 +1,101 @@
+﻿<local:TWindow x:Class="TachTypingTutor_v1._06._18.SettingsDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TachTypingTutor_v1._06._18"
+        mc:Ignorable="d"
+        Title="Settings" Height="450" Width="470">
+    <Border Padding="10" Background="{DynamicResource windowBackground}" BorderThickness="1" BorderBrush="{DynamicResource borderBrush}">
+      
+        <Grid>
+            <TabControl VerticalAlignment="Top" Height="350" Background="Transparent">
+                <TabItem Header="Lesson" Background="{DynamicResource controlBackground}">
+                    
+                    <StackPanel Margin="10" VerticalAlignment="Top">
+                        <GroupBox Foreground="{DynamicResource foreground}" FontWeight="SemiBold" BorderThickness="0.5" Header="Lesson Mode" Height="150" Padding="10" Style="{x:Null}" BorderBrush="{DynamicResource borderBrush}">
+                            <StackPanel VerticalAlignment="Center">
+                                <RadioButton Content="Machine" IsChecked="{Binding Machine}" Foreground="{DynamicResource foreground}" FontWeight="SemiBold" Name="rbtnMachine"/>
+                                <CheckBox Margin="20 1 0 5" Content="Tutorials" IsEnabled="{Binding IsChecked, ElementName=rbtnMachine}" IsChecked="{Binding Tutorials}" Foreground="{DynamicResource foreground}" FontWeight="SemiBold"/>
+                                <RadioButton Content="User" IsChecked="{Binding User}" Foreground="{DynamicResource foreground}" FontWeight="SemiBold" Margin="0 5"/>
+                                <RadioButton Content="Practice" IsChecked="{Binding Practice}" Foreground="{DynamicResource foreground}" FontWeight="SemiBold" Margin="0 5"/>
+                            </StackPanel>
+                        </GroupBox>
+                        <CheckBox Content="Allow Backspace" Margin="15 20" Foreground="{DynamicResource foreground}" FontWeight="SemiBold" IsChecked="{Binding AllowBackspace}"/>
+                    </StackPanel>
+                </TabItem>
+                <TabItem Header="Appearance" Background="{DynamicResource controlBackground}">
+                    <StackPanel VerticalAlignment="Top" Margin="10">
+                        <GroupBox Header="Interface" Height="160" Padding="9" Style="{x:Null}" Foreground="{DynamicResource foreground}" FontWeight="SemiBold" BorderThickness=".5" BorderBrush="{DynamicResource borderBrush}">
+                            <StackPanel>
+                                <TextBlock Text="{Binding Path=SelectedItem.Name, ElementName=lstThemes, StringFormat=Theme: {0}}"/>
+                                <ListBox ItemsSource="{Binding Themes}" SelectedItem="{Binding Theme}" Name="lstThemes">
+                                    <ListBox.ItemsPanel>
+                                        <ItemsPanelTemplate>
+                                            <StackPanel Orientation="Horizontal" IsItemsHost="True">
+
+                                            </StackPanel>
+                                        </ItemsPanelTemplate>
+                                    </ListBox.ItemsPanel>
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Orientation="Horizontal">
+                                                <Ellipse Height="50" Width="50" Fill="{Binding Color}"/>
+                                                <TextBlock VerticalAlignment="Center" Margin="5 0 10 0" Text="{Binding Name}" FontSize="13" FontWeight="SemiBold"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+                                <StackPanel Orientation="Horizontal" Margin="0 15"/>
+                            </StackPanel>
+                        </GroupBox>
+
+
+                        <GroupBox BorderThickness=".5" BorderBrush="{DynamicResource borderBrush}" Padding="10" Header="Font" Height="130" Margin="0 10" Style="{x:Null}"  Foreground="{DynamicResource foreground}" FontWeight="SemiBold">
+                            <StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="  Font size_____" VerticalAlignment="Bottom" TextDecorations="underline" Width="120"/>
+                                    <ComboBox Width="120" ItemsSource="{Binding FontSizes}" SelectedItem="{Binding FontSize}" Background="{DynamicResource controlBackground}" HorizontalContentAlignment="Center"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="0 5">
+                                    <TextBlock Text="  Font weight__" TextDecorations="underline" Width="120" VerticalAlignment="Bottom"/>
+                                    <ComboBox Width="120" ItemsSource="{Binding FontWeights}" SelectedItem="{Binding FontWeight}"  Background="{DynamicResource controlBackground}" HorizontalContentAlignment="Center"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </GroupBox>
+
+                       
+                    </StackPanel>
+                </TabItem>
+
+
+                <!--#region Audio tab-->
+                <TabItem Header="Audio" Background="{DynamicResource controlBackground}">
+
+                    <Border Margin="10" Padding="10">
+                        <StackPanel>
+                            <CheckBox Content="Audio On" IsChecked="{Binding AudioOn}" Margin="2" Name="chkAudioOn" Foreground="{DynamicResource foreground}" FontWeight="SemiBold"/>
+                            <CheckBox Content="Sound On" IsChecked="{Binding SoundOn}" Margin="20 2 2  2" IsEnabled="{Binding IsChecked, ElementName=chkAudioOn}"  Foreground="{DynamicResource foreground}" FontWeight="SemiBold"/>
+                            <CheckBox Content="Music On" IsChecked="{Binding MusicOn}" Margin="20 2 2 2"  Foreground="{DynamicResource foreground}" FontWeight="SemiBold" IsEnabled="{Binding IsChecked, ElementName=chkAudioOn}" />
+                            <Separator Margin="10"/>
+                            <Border Height="150" BorderBrush="{DynamicResource borderBrush}" Margin="10 1" BorderThickness="1" CornerRadius="2">
+                                <ListBox Padding="20 10" Background="#1eee" x:Name="lst" ItemsSource="{Binding Files}" SelectionMode="Multiple" DisplayMemberPath="FileName" />
+                            </Border>
+                            <StackPanel Margin="10 2" HorizontalAlignment="Right" Orientation="Horizontal">
+                                <Button Content="Remove" Click="remove_click"/>
+                                <Button Content="Add Music Path" HorizontalAlignment="Right" Margin="0" Click="Button_Click"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+
+                </TabItem>
+                <!--#endregion Audio tab-->
+            </TabControl>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="5" Orientation="Horizontal" >
+                <Button Content="Cancel"/>
+                <Button Content="Apply"/>
+                <Button Content="Done"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</local:TWindow>

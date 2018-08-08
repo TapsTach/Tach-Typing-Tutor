@@ -1,0 +1,216 @@
+﻿<UserControl x:Class="TachTypingTutor_v1._06._18.Hands.HandLeftShift"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TachTypingTutor_v1._06._18.Hands"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Canvas Margin="0,0,297.285,293.213">
+        <Path Tag="Home" Data="M82.039835,239.19114 L58.527156,231.29738 60.247596,244.12473 60.380423,253.07193 63.242105,272.72651 63.348868,285.34924 65.327636,295.55939 66.317021,304.12274 68.266433,309.35106 68.936642,314.03547 69.944519,325.20156 66.940408,342.25686 37.357717,477.54012 133.88966,477.54012 152.39362,346.93906 161.62792,335.41151 179.93162,315.32082 193.28838,300.00547 198.64666,282.9353 185.16531,262.37162 168.44338,236.55973 144.94316,221.25751 112.59781,222.59354 83.908832,222.32921&#xA; z" Fill="#B2C3B6A5" Height="259.732" Canvas.Left="6.683" Stretch="Fill" Canvas.Top="85.305" Width="140.623" StrokeThickness="0.2"/>
+        <Path Tag="Home" Data="M114.49485,224.28006 L116.75881,222.27511 118.11014,217.05124 119.32633,210.13314 119.36432,201.08838 119.62099,192.26452 120.56195,183.32339 119.9558,178.08402 121.13897,173.05877 123.83571,167.77063 124.93147,165.09811 127.58819,160.21587 130.76387,153.30106 133.74474,150.46887 136.94052,148.19307 139.32589,146.17617 142.48125,144.63097 145.00122,143.79955 147.52391,143.30526 151.30742,143.14068 154.32556,143.77588 155.94715,144.48181 158.51466,147.02315 159.46058,148.99988&#xA;160.00097,151.82359 159.48448,155.93188 155.98262,161.5666 153.1154,165.38117 151.73225,170.58431 148.22064,179.53054 148.33427,186.96989 148.36286,192.74079 148.67084,197.50531 148.13608,200.50913 147.98017,206.78755 148.4121,215.04633 150.02876,220.67608 z" Fill="#B2C3B6A5" Height="82.287" Canvas.Left="76.283" Stretch="Fill" Canvas.Top="5.955" Width="34.514" StrokeThickness="0.2" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="4.945"/>
+                    <TranslateTransform X="0.17415755179647663" Y="0.029714692948111576"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Tag="Home" Data="M123.88637,228.50064 L125.41087,215.71153 124.233,202.39191 124.483,198.76694 125.233,193.89198 125.983,187.51703 126.77003,182.35128 127.23301,175.39214 129.358,164.89223 130.34172,161.38768 131.65467,156.71022 133.85802,151.26735 136.23302,149.39236 141.73303,148.76737 147.35804,150.14235 150.42216,153.05245 153.85805,158.76728 155.23299,162.39225 156.37226,169.16084 157.10805,175.14214 157.48305,186.64204 156.44174,204.44897 155.39934,219.43338 162.4537,238.06007&#xA;124.41014,228.4002 z" Fill="#B2C3B6A5" Height="90.528" Canvas.Left="105.826" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="8.563" Width="24.091" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.967"/>
+                    <RotateTransform Angle="15.601"/>
+                    <TranslateTransform Y="0.26747203151292331" X="3.5112729608555853"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Tag="Home" Data="M139.24937,285.40579 C139.24937,285.40579 161.39694,324.34794 161.39694,324.34794 L162.66495,315.184 164.08532,308.20615 170.03211,289.74437 173.51939,278.59803 176.01031,274.10622 178.1691,267.28532 178.00304,257.63625 178.50123,252.97808 180.28542,245.01534 182.32029,238.83719 180.9915,237.67266 177.83639,237.50629 168.67402,239.69667 164.05353,243.16294 160.40057,247.65445 158.24178,252.47899 156.41511,258.80079 155.08662,264.78987 152.26358,273.10804 147.18521,280.53743 142.90274,284.24126" Fill="#B2C3B6A5" Height="87" Canvas.Left="125.078" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="60.813" Width="43.228"/>
+        <Path Data="M198.06874,144.19679 C194.6957,144.78095 196.97356,142.79893 192.74082,146.26778 190.39468,148.19051 191.76451,151.05867 191.59298,152.81866 191.38651,154.93714 192.47909,156.49236 194.82544,157.84291 195.05863,157.82624 195.73043,154.4364 196.06375,152.76973 196.48039,150.76973 197.16884,149.37547 197.7426,147.16587 198.59665,143.87687 198.57592,148.2542 198.06874,144.19679 z" Fill="#66FAEBD7" Height="13.814" Canvas.Left="160.882" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="61.51" Width="7.24"/>
+        <Path Data="M156.64743,94.305213 C155.93704,95.124898 152.22685,98.870127 158.95554,98.870127 163.16449,98.870127 160.39016,99.423532 164.31694,99.066552 165.64108,98.946176 167.3045,99.335595 167.85929,97.239724 168.18212,96.020142 169.63377,94.827204 168.10152,93.812905 163.848,90.997207 163.94722,92.348906 157.96664,92.348906 157.96664,92.432239 156.64743,94.22188 156.64743,94.305213 z" Fill="#66FAEBD7" Height="5.322" Canvas.Left="126.645" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="10.523" Width="8.989" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="11.983"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M118.7807,88.773712 C123.57589,89.528012 132.18468,92.952898 132.28058,93.021398 131.19754,90.605276 131.01579,89.163754 126.74427,88.368081 123.97719,87.852646 121.5679,88.773712 118.7807,88.773712 z" Fill="#66FAEBD7" Height="5.012" Canvas.Left="101.979" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="7.345" Width="11.2"/>
+        <Path Data="M106.02831,90.970391 C107.75488,91.466781 108.06918,90.066185 109.69247,90.873252 111.23181,91.638579 113.40861,93.555076 115.04841,95.17074 116.4693,95.454918 121.02412,93.064473 114.25,89 110.53661,86.771967 109.69845,88.711841 106.02831,90.970391 z" Fill="#66FAEBD7" Height="7.406" Canvas.Left="72.14" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="6.514" Width="12.03"/>
+        <Path Data="M125.50751,114.85346 C123.0788,121.16812 121.46908,129.86477 121.46908,136.54556 120.13975,137.21023 117.81662,148.49172 120.48504,151.16014 120.40171,151.24347 122.32508,142.66967 122.24175,142.753 122.90837,141.41964 120.80016,140.37296 121.63343,138.20634 122.93717,134.81639 123.60108,130.23746 123.60108,126.24873 123.60108,121.58906 127.90525,116.10291 129.01322,111.30172 129.57853,108.85206 134.44112,103.72118 134.58906,101.00488 134.83868,96.421605 133.56448,96.570585&#xA;133.1133,93.863532 133.06826,93.878545 131.44561,94.815918 131.9065,96.670125 132.17318,97.743015 131.87449,98.974564 131.72249,99.513659 130.36696,104.32113 126.9544,111.09155 125.50751,114.85346 z" Fill="#6676726D" Height="57.5" Canvas.Left="97.893" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="11.48" Width="15.612"/>
+        <Path Data="M181.59875,160.62451 C181.80537,160.96329 186.6252,159.25001 190.34875,163.12451" Fill="#66534C44" Height="1.494" Canvas.Left="156.829" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="86.796" Width="7.04" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="15.345"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M116.25,121.5 C118.40719,122.85823 119.8937,124.75 122.75,124.75 125.25174,124.75 129.3443,126.71711 130.5,123.25 132.30209,122.94965 132.36923,122.72762 133.5,122" Fill="#66534C44" Height="2.006" Canvas.Left="81.191" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="39.047" Width="17.45" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="17.499"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M82,127.25 C87.798006,129.59263 92.559325,131.19067 99,124.75 98.833333,124.75 98.666667,124.75 98.5,124.75" Fill="#66534C44" Height="1.797" Canvas.Left="54.729" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="40.047" Width="17.2" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="4.646"/>
+                    <RotateTransform Angle="-164.788"/>
+                    <TranslateTransform X="0.19" Y="0.033"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M88.25,121 C92.001266,121 93.999613,120.79258 97.25,119.75" Fill="#66FAEBD7" Height="1.45" Canvas.Left="65.845" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="38.349" Width="9.2"/>
+        <Path Data="M57.5,141 C60.342012,140.66281 62.956034,140.44704 65.75,140.75" Fill="#66534C44" Height="0.595" Canvas.Left="34.845" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="49.704" Width="8.45"/>
+        <Path Data="M60.25,136 C64.174664,136 67.285904,136.37401 70.5,135.5" Fill="#66534C44" Height="0.78" Canvas.Left="40.845" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="35.849" Width="10.45" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="13.11"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M101.26493,172.21333 C100.61065,175.76515 99.999475,178.10765 97.514925,181.21333 94.671639,184.76744 94.817203,187.34005 94.764925,192.46333" Fill="#66534C44" Height="20.45" Canvas.Left="68.595" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="90.099" Width="6.7" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-10.601"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M138.5,172.25 C138.10318,178.20232 136.07015,186.88264 137.5,192" Fill="#665F584F" Height="19.95" Canvas.Left="96.842" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="88.099" Width="1.703"/>
+        <Path Data="M93.918486,205 C98.857689,212.9354 94.229648,225.00001 94.229648,234.75 94.229648,242.85668 91.761481,253.06367 95.479648,260.5 95.312981,260.33333 95.835153,260.16667 95.668486,260" Fill="#66534C44" Height="55.7" Canvas.Left="73.56" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="123.599" Width="3.017"/>
+        <Path Data="M66.5,200.5 C66.089331,206.24937 68.80807,209.84842 69.75,215.5 70.915278,222.49167 69.75,229.66254 69.75,236.75 69.75,246.34869 71.5,256.81947 71.5,266.25 71.333333,266.25 71.166667,266.25 71,266.25 71,266 71,265.75 71,265.5" Fill="#66534C44" Height="65.95" Canvas.Left="44.053" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="119.099" Width="5.242"/>
+        <Path Data="M136.25,208.5 C135.09438,212.57507 131.87775,214.64484 130.75664,218.75556 129.74169,222.47706 129.40053,226.63942 128.75664,230.50278 128.12482,234.2937 131.64557,241.60443 129,244.25 129,244 129,243.75 129,243.5" Fill="#66534C44" Height="35.95" Canvas.Left="99.092" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="127.099" Width="4.703" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-5.993"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M183.75,217" Fill="#66FAEBD7" Height="0.2" Canvas.Left="161.345" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="135.599" Width="0.2"/>
+        <Path Data="M152.25,123.5 C155.90409,122.7788 159.16166,122 163,122 165.7564,122 168.73539,120.47078 170.25,123.5 171.69151,124.22075 171.64053,125.04738 172.5,126.5" Fill="#66534C44" Height="1.503" Canvas.Left="118.842" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="30.296" Width="8.953"/>
+        <Path Data="M153.25,133.25 C153.49222,133.14619 153.77583,133.13854 154,133 154.10025,132.93804 154.14894,132.81063 154.25,132.75" Fill="#66FAEBD7" Height="0.7" Canvas.Left="130.845" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="51.349" Width="1.2"/>
+        <Path Data="M154.5,132.75 C158.08986,133.66834 161.44855,134.95694 165.25,135.5 167.78929,135.86276 169.43642,135.75023 171.75,135.25" Fill="#66534C44" Height="3.163" Canvas.Left="110.342" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="51.349" Width="17.45"/>
+        <Path Data="M117,110.5 C118.79657,110.17851 120.73274,109.33934 122.5,109.5 125.13728,109.73975 126.27358,111.12893 128.5,111.5 128.97937,113.89684 131.31566,114.94198 133,116.5" Fill="#66534C44" Height="4.18" Canvas.Left="93.563" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="17.7" Width="13.197" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.359"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M55,182 C57.148024,190.72635 55.880441,193.61085 52.75,201.75" Fill="#66534C44" Height="19.95" Canvas.Left="29.574" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="98.855" Width="0.627" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-177.471"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M145.25,183.75 C146.04757,188.8345 143.75,193.00186 143.75,198.25 145.26023,198.85409 144.88529,200.63529 146,201.75 145.91667,201.83333 145.83333,201.91667 145.75,202" Fill="#66534C44" Height="18.45" Canvas.Left="152.095" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="106.099" Width="2.45" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="18.165"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M82,127.25 C87.798006,129.59263 92.559325,131.19067 99,124.75 98.833333,124.75 98.666667,124.75 98.5,124.75" Fill="#66534C44" Height="2.798" Canvas.Left="65.677" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="17.817" Width="11.22" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-151.041"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M181.59875,160.62451 C181.80537,160.96329 186.6252,159.25001 190.34875,163.12451" Fill="#66534C44" Height="2.27" Canvas.Left="155.916" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="91.158" Width="7.116" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="187.511"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Tag="Home" Data="M102.98617,170.16476 L107.28855,161.29656 115.8171,151.23513 122.98407,146.06845 127.33557,144.04809 135.3176,144.90179 139.48444,148.56846 140.15113,151.40181 139.65144,158.06849 135.256,165.05578 130.15027,170.59259 126.54804,179.6893 124.43759,184.82951 125.08376,196.1281 126.81748,205.40195 126.6508,212.7352 127.54523,219.67197 128.33872,223.32799 94.917203,224.17154 96.952517,215.69666 96.808637,206.30296 97.915483,193.61988 99.231383,184.59223 100.10357,176.97654&#xA;" Fill="#B2C3B6A5" Height="80.689" Canvas.Left="48.641" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="6.621" Width="34.308" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="2.38"/>
+                    <TranslateTransform X="0.24546263921553013" Y="-0.083765499396932341"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M106.02831,90.970391 C107.75488,91.466781 108.06918,90.066185 109.69247,90.873252 111.23181,91.638579 113.40861,93.555076 115.04841,95.17074 116.4693,95.454918 121.02412,93.064473 114.25,89 110.53661,86.771967 109.69845,88.711841 106.02831,90.970391 z" Fill="#66FAEBD7" Height="7.406" Canvas.Left="72.14" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="6.514" Width="12.03"/>
+        <Path Data="M83.420978,127.99344 C89.218984,130.33607 93.980303,131.93411 100.42098,125.49344 100.25431,125.49344 98.666667,124.75 98.5,124.75" Fill="#66534C44" Height="2.09" Canvas.Left="53.341" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="39.67" Width="17.2" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="4.646"/>
+                    <RotateTransform Angle="-164.788"/>
+                    <TranslateTransform X="0.21695197641677311" Y="-0.2579907672641486"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M83.767609,126.1996 C89.565615,128.54223 94.326934,130.14027 100.76761,123.6996 100.60094,123.6996 98.666667,124.75 98.5,124.75" Fill="#66534C44" Height="2.798" Canvas.Left="64.343" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="17.817" Width="11.22" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-151.041"/>
+                    <TranslateTransform Y="1.7763568394002505E-15"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path x:Name="F"  Data="M106.08523,5.4759875 L104.00608,7.1939295 102.40479,9.5966299 96.320188,22.412559 112.17975,28.5 113.13316,21.130983 113.45373,16.004711 112.01257,8.3153017 110.41159,6.3926689 z" Fill="Purple" Height="23.954" Canvas.Left="119.306" Stretch="Fill" Canvas.Top="9.859" Width="17.834" Opacity="0"/>
+        <Path  x:Name="D"  Data="M110.59747,6.1520273 L103.05797,8.5330501 95.978868,14.806914 92.406812,22.877983 110.94137,29.606476 116.8941,19.150425 117.53797,11.911284 114.38762,7.316327 z" Fill="#E5FFFF00" Height="24.3" Canvas.Left="87.606" Stretch="Fill" Width="26.034" Canvas.Top="6.846" Opacity="0"/>
+        <Path x:Name="S"  Data="M112.02564,7.8527619 L106.07937,10.909764 101.09716,15.253926 94.989627,23.620459 113.79353,30.860407 117.81134,22.3333 118.61491,15.736611 117.32931,11.231507 z" Fill="#E5008000" Height="23.833" Canvas.Left="59.806" Stretch="Fill" Canvas.Top="6.313" Width="24.5" Opacity="0"/>
+        <Path  x:Name="LT"  Data="M103.92635,7.6524038 L97.079996,12.720741 91.75615,24.312591 112.57335,31.041011 113.21387,19.667176 114.81524,13.419576 116.57697,6.3710024 115.13407,5.3982991 z" Fill="SaddleBrown" Height="26.679" Canvas.Left="142.306" Stretch="Fill" Canvas.Top="60.801" Width="25.834" Opacity="0"/>
+        <Path Data="M51.041682,116.41667 L54.855369,116.88281 57.522031,119.04949 C57.522031,119.04949 58.179996,122.3939 57.000001,124.66637 56.262867,126.08597 55.384503,127.94856 55.000004,128.33306 54.511969,128.82109 50.092102,132.3828 48.666691,133.33308 46.666694,134.66642 46.666694,137.66643 46.666694,137.66643 L45.00003,146.33314 44.666702,149.66649 46.000033,152.33316 48.666696,158.66653 51.333343,165.99989 58.125019,175 56.791661,189.54167 36.250314,181.50007 34.000028,172.66659 32.000037,164.99989 29.666707,159.3332 27.333382,153.6665 27.00005,146.99981 29.000046,139.66644 30.932882,134.30582 32.59988,128.63916 33.666705,125.33304 35.000037,122.66636 46.881185,117.11357 49.11845,116.70919 z" Fill="#B2C3B6A5" Height="73.126" Canvas.Left="15.89" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="30.396" Width="31.124"/>
+        <Path Data="M46.000274,117.8325 L49.333665,118.16633 52.167707,118.4991 56.000957,117.49919 53.500799,116.83285 51.834016,116.66626 49.500519,116.49927 z" Fill="#66FAEBD7" Height="2" Canvas.Left="35.14" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="30.98" Width="10.001"/>
+        <Path Data="M82,127.25 C87.798006,129.59263 92.559325,131.19067 99,124.75 98.833333,124.75 98.666667,124.75 98.5,124.75" Fill="#66534C44" Height="2.031" Canvas.Left="11.671" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="63.967" Width="12.404" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-267.294"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+        <Path Data="M37.166667,121.5 L34.666335,128.33333 32.999115,128.33333 34.832692,123.00007 z" Fill="#66534C44" Height="6.833" Canvas.Left="22.14" Stretch="Fill" StrokeThickness="0.2" Canvas.Top="35.98" Width="4.167"/>
+
+    </Canvas>
+</UserControl>
+

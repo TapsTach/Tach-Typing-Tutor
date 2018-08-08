@@ -1,0 +1,682 @@
+﻿{
+"qoutes": [
+	{
+		"id" : 1,
+		"name" : "quote1",
+		"qoute" : " \"The best love is the kind that awakens the soul; that makes us reach for more, that plants the fire in our hearts and brings peace to our minds. That's what I hope to give you forever.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 2,
+		"name" : "quote2",
+		"qoute" : "\"I look at you and see the rest of my life in front of my eyes.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 3,
+		"name" : "quote3",
+		"qoute" : "\"The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 4,
+		"name" : "quote4",
+		"qoute" : "\"All, everything that I understand, I only understand because I love.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 5,
+		"name" : "quote5",
+		"qoute" : "\"And remember, as it was written, to love another person is to see the face of God.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 6,
+		"name" : "quote6",
+		"qoute" : "\"It's a very dangerous state. You are inclined to recklessness and kind of tune out the rest of your life and everything that's been important to you. It's actually not all that pleasurable. I don't know who the hell wants to get in a situation where you can't bear an hour without somebody's company.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 7,
+		"name" : "quote7",
+		"qoute" : "\"The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart.\" ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 8,
+		"name" : "quote8",
+		"qoute" : " \"To love is nothing. To be loved is something. But to love and be loved, that's everything.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 9,
+		"name" : "quote9",
+		"qoute" : "\"I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 10,
+		"name" : "quote10",
+		"qoute" : "\"In order to be happy oneself it is necessary to make at least one other person happy.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 11,
+		"name" : "quote11",
+		"qoute" : "\"The heart wants what it wants. There's no logic to these things. You meet someone and you fall in love and that's that.\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 12,
+		"name" : "quote12",
+		"qoute" : "\"There's no substitute for a great love who says, 'No matter what's wrong with you, you're welcome at this table.'\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 13,
+		"name" : "quote13",
+		"qoute" : "You don't love someone because they're perfect, you love them in spite of the fact that they're not",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 14,
+		"name" : "quote14",
+		"qoute" : "I would rather spend one lifetime with you, than face all the ages of this world alone.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 15,
+		"name" : "quote15",
+		"qoute" : "When you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 16,
+		"name" : "quote16",
+		"qoute" : "I realized I was thinking of you, and I began to wonder how long you'd been on my mind. Then it occurred to me: Since I met you, you've never left.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 17,
+		"name" : "quote17",
+		"qoute" : "Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 18,
+		"name" : "quote18",
+		"qoute" : "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness, that most frightens us. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people won't feel insecure around you. We are all meant to shine as children do. It's not just in some of us; it is in everyone. And as we let our own lights shine, we unconsciously give other people permission to do the same. As we are liberated from our own fear, our presence automatically liberates others",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 19,
+		"name" : "quote19",
+		"qoute" : "Life is filled with highs and lows valleys and peaks that will test your resilience, that will push you to overcome challenges and the lessons you'll learn on your way to the top will only make you stronger, better.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 20,
+		"name" : "quote20",
+		"qoute" : "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 21,
+		"name" : "quote21",
+		"qoute" : "The world breaks everyone, and afterward, some are strong at the broken places.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 22,
+		"name" : "quote22",
+		"qoute" : "All the adversity I've had in my life, all my troubles and obstacles, have strengthened me.... You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 23,
+		"name" : "quote23",
+		"qoute" : "A truly strong person does not need the approval of others any more than a lion needs the approval of sheep.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 24,
+		"name" : "quote24",
+		"qoute" : "There are better starters than me but I'm a strong finisher.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 25,
+		"name" : "quote25",
+		"qoute" : "He who believes is strong; he who doubts is weak. Strong convictions precede great actions.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 26,
+		"name" : "quote26",
+		"qoute" : "Strength and growth come only through continuous effort and struggle.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 27,
+		"name" : "quote27",
+		"qoute" : "Make up your mind that no matter what comes your way, no matter how difficult, no matter how unfair, you will do more than simply survive. You will thrive in spite of it.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 28,
+		"name" : "quote28",
+		"qoute" : "Tough times never last, but tough people do.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 29,
+		"name" : "quote29",
+		"qoute" : "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 30,
+		"name" : "quote30",
+		"qoute" : "Nothing is more beautiful than the smile that has struggled through the tears.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 31,
+		"name" : "quote31",
+		"qoute" : "I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 32,
+		"name" : "quote32",
+		"qoute" : "That which does not kill us makes us stronger.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 33,
+		"name" : "quote33",
+		"qoute" : "The Way Get Started Is To Quit Talking And Begin Doing.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 34,
+		"name" : "quote34",
+		"qoute" : "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees The Opportunity In Every Difficulty.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 35,
+		"name" : "quote35",
+		"qoute" : "Don't Let Yesterday Take Up Too Much Of Today.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 36,
+		"name" : "quote36",
+		"qoute" : "You Learn More From Failure Than From Success. Don't Let It Stop You. Failure Builds Character.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 37,
+		"name" : "quote37",
+		"qoute" : "The most common way people give up their power is by thinking they don't have any",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 38,
+		"name" : "quote38",
+		"qoute" : "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 39,
+		"name" : "quote39",
+		"qoute" : "The best time to plant a tree was 20 years ago. The second best time is now.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 40,
+		"name" : "quote40",
+		"qoute" : "An unexamined life is not worth living. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 41,
+		"name" : "quote41",
+		"qoute" : "Eighty percent of success is showing up.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 42,
+		"name" : "quote42",
+		"qoute" : "Your time is limited, so don't waste it living someone else's life. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 43,
+		"name" : "quote43",
+		"qoute" : "Every child is an artist.  The problem is how to remain an artist once he grows up. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 44,
+		"name" : "quote44",
+		"qoute" : "Either you run the day, or the day runs you. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 45,
+		"name" : "quote45",
+		"qoute" : "The two most important days in your life are the day you are born and the day you find out why. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 46,
+		"name" : "quote46",
+		"qoute" : " Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 47,
+		"name" : "quote47",
+		"qoute" : "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 48,
+		"name" : "quote48",
+		"qoute" : "Ask and it will be given to you; search, and you will find; knock and the door will be opened for you.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 49,
+		"name" : "quote49",
+		"qoute" : "The only person you are destined to become is the person you decide to be. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 50,
+		"name" : "quote50",
+		"qoute" : "Go confidently in the direction of your dreams.  Live the life you have imagined.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 51,
+		"name" : "quote51",
+		"qoute" : "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 52,
+		"name" : "quote52",
+		"qoute" : "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 53,
+		"name" : "quote53",
+		"qoute" : "Certain things catch your eye, but pursue only those that capture the heart. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 54,
+		"name" : "quote54",
+		"qoute" : "Believe you can and you're halfway there.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 55,
+		"name" : "quote55",
+		"qoute" : "Everything you've ever wanted is on the other side of fear.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 56,
+		"name" : "quote56",
+		"qoute" : " We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 57,
+		"name" : "quote57",
+		"qoute" : "Start where you are. Use what you have.  Do what you can. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 58,
+		"name" : "quote58",
+		"qoute" : "Fall seven times and stand up eight. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 59,
+		"name" : "quote59",
+		"qoute" : "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 60,
+		"name" : "quote60",
+		"qoute" : "Everything has beauty, but not everyone can see.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 61,
+		"name" : "quote61",
+		"qoute" : "Life is not measured by the number of breaths we take, but by the moments that take our breath away. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 62,
+		"name" : "quote62",
+		"qoute" : "Happiness is not something readymade.  It comes from your own actions.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 63,
+		"name" : "quote63",
+		"qoute" : "If you're offered a seat on a rocket ship, don't ask what seat! Just get on. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 64,
+		"name" : "quote64",
+		"qoute" : "If the wind will not serve, take to the oars.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 65,
+		"name" : "quote65",
+		"qoute" : " Too many of us are not living our dreams because we are living our fears.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 66,
+		"name" : "quote66",
+		"qoute" : "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 67,
+		"name" : "quote67",
+		"qoute" : " If you want to lift yourself up, lift up someone else. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 68,
+		"name" : "quote68",
+		"qoute" : "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 69,
+		"name" : "quote69",
+		"qoute" : "Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 70,
+		"name" : "quote70",
+		"qoute" : "You take your life in your own hands, and what happens? A terrible thing, no one to blame. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 71,
+		"name" : "quote71",
+		"qoute" : "In order to succeed, your desire for success should be greater than your fear of failure.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 72,
+		"name" : "quote72",
+		"qoute" : "A person who never made a mistake never tried anything new. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 73,
+		"name" : "quote73",
+		"qoute" : "The person who says it cannot be done should not interrupt the person who is doing it. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 74,
+		"name" : "quote74",
+		"qoute" : "It is never too late to be what you might have been.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 75,
+		"name" : "quote75",
+		"qoute" : "You become what you believe. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 76,
+		"name" : "quote76",
+		"qoute" : " I would rather die of passion than of boredom.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 77,
+		"name" : "quote77",
+		"qoute" : " A truly rich man is one whose children run into his arms when his hands are empty.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 78,
+		"name" : "quote78",
+		"qoute" : " It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 79,
+		"name" : "quote79",
+		"qoute" : "Build your own dreams, or someone else will hire you to build theirs.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 80,
+		"name" : "quote80",
+		"qoute" : "The battles that count aren't the ones for gold medals. The struggles within yourself--the invisible battles inside all of us--that's where it's at.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 81,
+		"name" : "quote81",
+		"qoute" : "Education costs money.  But ignorance even more. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 82,
+		"name" : "quote82",
+		"qoute" : "I have learned over the years that when one's mind is made up, this diminishes fear.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 83,
+		"name" : "quote83",
+		"qoute" : "It does not matter how slowly you go as long as you do not stop.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 84,
+		"name" : "quote84",
+		"qoute" : " If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 85,
+		"name" : "quote85",
+		"qoute" : "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 86,
+		"name" : "quote86",
+		"qoute" : " Our lives begin to end the day we become silent about things that matter.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 87,
+		"name" : "quote87",
+		"qoute" : "Do what you can, where you are, with what you have.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 88,
+		"name" : "quote88",
+		"qoute" : "It's your place in the world; it's your life. Go on and do all you can with it, and make it the life you want to live.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 89,
+		"name" : "quote89",
+		"qoute" : "You may be disappointed if you fail, but you are doomed if you don't try. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 90,
+		"name" : "quote90",
+		"qoute" : "Remember no one can make you feel inferior without your consent. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 91,
+		"name" : "quote91",
+		"qoute" : "The question isn't who is going to let me; it's who is going to stop me. ",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 92,
+		"name" : "quote92",
+		"qoute" : "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 93,
+		"name" : "quote93",
+		"qoute" : "Either write something worth reading or do something worth writing.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 94,
+		"name" : "quote94",
+		"qoute" : "Nothing is impossible, the word itself says, \"I'm possible!\"",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 95,
+		"name" : "quote95",
+		"qoute" : "The only way to do great work is to love what you do.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 96,
+		"name" : "quote96",
+		"qoute" : " If you can dream it, you can achieve it.",
+		"category" : null,
+		"ageRestriction" : 0
+	},
+	{
+		"id" : 97,
+		"name" : "quote97",
+		"qoute" : "Sometimes you look back at girls you spent money on rather than send it to your mum & you realise witchcraft is real",
+		"category" : null,
+		"ageRestriction" : 0
+	}
+]}
